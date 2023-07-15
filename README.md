@@ -28,3 +28,11 @@ Copy server address and paste into browser
 
 Check change
 ```
+once finished commit
+```
+Once finished commit
+
+Call bin/deploy —user 
+
+Proceed
+```
