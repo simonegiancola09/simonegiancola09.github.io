@@ -1,11 +1,11 @@
 ---
 layout: page
-title: projects
+title: writings
 permalink: /projects/
-description: A growing collection of your cool projects.
+description: Short documents usually come with a presentation and are below 50 pages. Long documents are rather notes from courses (> 100 pgs).
 nav: true
 nav_order: 2
-display_categories: [work, fun]
+display_categories: [short, long]
 horizontal: false
 ---
 
