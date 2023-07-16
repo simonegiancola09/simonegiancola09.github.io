@@ -19,6 +19,14 @@ Inside gem file, add on first line
 Gem ‘wdm’, ‘>=0.1.0’
 
 Add and comment
+```
+Now kind of difficult, but need to have ```rbenv``` and a nice version of Ruby installed (I use 3.2.2). Likely, it will not be activated, but it suffices to call:
+```
+export PATH="$HOME/.rbenv/shims:$PATH"
+rbenv local 3.2.2
+```
+to be able to work with the other commands
+```
 
 Run on terminal bundle install 
 
