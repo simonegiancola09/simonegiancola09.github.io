@@ -9,7 +9,7 @@ category: short
 
 To access the document, please click \[[PDF](https://simonegiancola09.github.io/assets/pdf/machine_learning_II_report.pdf)\]
 <br/>
-The presentation is at [this link](https://simonegiancola09.github.io/talks/2023-02-01-talk-4). 
+The presentation is at \[[this link](https://simonegiancola09.github.io/assets/pdf/machine_learning_II_presentation.pdf)\]. 
 <br/>
 
 60 pages report written to prepare a presentation for the Machine Learning II course, offered at Bocconi University. Expanded devolving time to the Visitiing Student Initiative.

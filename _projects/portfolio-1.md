@@ -7,10 +7,10 @@ importance: 1
 category: short
 ---
 
-To access the document, please click \[[PDF](https://simonegiancola09.github.io/files/RA_II_report.pdf)\] 
+To access the document, please click \[[PDF](https://simonegiancola09.github.io/assets/pdf/RA_II_report.pdf)\] 
 
 
-The presentation is at [this link](https://simonegiancola09.github.io/talks/2023-01-09-talk-3). 
+The presentation is at \[[this link](https://simonegiancola09.github.io/assets/pdf/RA_II_presentation.pdf)\]
 
 
 

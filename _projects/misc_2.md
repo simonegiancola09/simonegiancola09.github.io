@@ -7,7 +7,7 @@ importance: 1
 category: long
 ---
 
-To access the document, please click \[[PDF](http://simonegiancola09.github.io/files/Stat_Phys_EPFL.pdf)\]
+To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/Stat_Phys_EPFL.pdf)\]
 
 #### Updates
 
