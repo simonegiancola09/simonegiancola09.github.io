@@ -1,6 +1,6 @@
 Personal Website 
 ====
-Under construction, template from [al-folio](https://github.com/alshedivat/al-folio). 
+template from [al-folio](https://github.com/alshedivat/al-folio). 
 
 Tips:
 ```
