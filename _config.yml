@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: # the website title (if blank, full name will be used instead)
+title: Simone Giancola's webpage # the website title (if blank, full name will be used instead)
 first_name: Simone
 middle_name: Maria
 last_name: Giancola
@@ -21,7 +21,7 @@ url: https://simonegiancola09.github.io # the base hostname & protocol for your 
 baseurl:  # the subpath of your site, e.g. /blog/
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path:  # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
-
+ 
 # -----------------------------------------------------------------------------
 # Theme
 # -----------------------------------------------------------------------------
@@ -177,7 +177,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit:  # leave blank to include all the news in the `_news` folder
+  limit: 5 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
@@ -262,8 +262,8 @@ jekyll-archives:
     tag: '/blog/tag/:name/'
     category: '/blog/category/:name/'
 
-display_tags: ['formatting', 'images', 'links', 'math', 'code'] # these tags will be displayed on the front page of your blog
-display_categories: ['blockquotes'] # these categories will be displayed on the front page of your blog
+display_tags: ['informal', 'formal', 'math', 'thoughts'] # these tags will be displayed on the front page of your blog
+display_categories: ['theory', 'nontheory'] # these categories will be displayed on the front page of your blog
 
 # -----------------------------------------------------------------------------
 # Jekyll Scholar

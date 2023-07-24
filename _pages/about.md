@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Welcome to Simone Giancola's webpage!
+subtitle: Hello World!
 
 profile:
   align: right

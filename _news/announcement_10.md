@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-did two lectures. [A long one](https://simonegiancola09.github.io/talks/2023-03-23-talk-5) about the connection between percolation and spin systems and [a poster-style presentation](https://simonegiancola09.github.io/talks/2023-03-30-talk-6) based on a paper about Statistical Physics applied to Neural Networks. 
+did two lectures. A long one about the connection between percolation and spin systems and a shorter one based on a paper about Statistical Physics applied to Neural Networks. Both are found in "talks"
