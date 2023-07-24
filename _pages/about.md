@@ -32,7 +32,5 @@ I am a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervis
 The prompt I gave to Dall-E2 for the suprinsingly self resembling image was
 >"Van Gogh style painting of an Italian boy in his 20s with a shirt and eyeglasses, brown curly hair, brown eyes"
 
-Perhaps I am a ground state of some Open AI's ML pipeline...
-
 
 
