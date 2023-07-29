@@ -29,6 +29,10 @@ I am a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervis
 
 - 📧 Feel free to email me at **simonegiancola09 at gmail dot com**, or see below different platforms where you can find me. 
 
+Check this [blog post](https://simonegiancola09.github.io/blog/2023/list-of-interesting-things/) if you want to know more about what I like out of research.
+
+
+
 The prompt I gave to Dall-E2 for the suprinsingly self resembling image was
 >"Van Gogh style painting of an Italian boy in his 20s with a shirt and eyeglasses, brown curly hair, brown eyes"
 

@@ -1,6 +1,116 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-24T23:38:18+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
-</subtitle><entry><title type="html">A list of lists of interesting things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A list of lists of interesting things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>Below is a list of things that I enjoyed throughout the years, as the memory comes and goes I will update it. Feel free to give me recommendations based on what you read! Apart from the podcasts, the contents are also translated in English. I will also use it as a personal repository. 
-<strong>Books</strong></p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-07-29T21:04:34+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
+</subtitle><entry><title type="html">A list of lists of interesting things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A list of lists of interesting things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>Below is a list of things that I enjoyed throughout the years, as the memory comes and goes I will update it. Feel free to give me recommendations based on what you read!</p>
+
+<p><strong>Sculptors</strong></p>
+<ul>
+  <li>Jago</li>
+  <li>Daniel Arsham</li>
+  <li>Paolo Nicolai</li>
+  <li>Fabio Viale</li>
+  <li>Leo Caillard</li>
+  <li>Filippo Tincolini</li>
+  <li>Francesco Filiberto Tonnarelli</li>
+  <li>Federico Benedetti</li>
+  <li>Bruno Cesar Catalano</li>
+  <li>Massimiliano Pelletti</li>
+</ul>
+
+<p><strong>Photographers</strong></p>
+<ul>
+  <li>George Steinmetz</li>
+  <li>Michael Yamasita</li>
+  <li>Steve McCurry</li>
+  <li>Joel Sartore</li>
+  <li>Aaron Huey</li>
+  <li>Robin Hammond</li>
+  <li>Brent Stirton</li>
+  <li>Babak Tafreshi</li>
+  <li>Gabriele Galimberti</li>
+  <li>Pedro McBride</li>
+  <li>Marshall Cody</li>
+  <li>Shaaz Jung</li>
+  <li>Paul Nicklen</li>
+  <li>Sam Alexander Gregg</li>
+  <li>Michael Christopher Brown</li>
+  <li>Herbert van der Beek</li>
+  <li>Lenny J. Ruiz</li>
+  <li>Suitcase Joe</li>
+  <li>Sam Youkilis</li>
+  <li>Antonio Faccilongo</li>
+  <li>Alessandro Cinque</li>
+  <li>Michele Iacobini</li>
+  <li>Leandro Colantoni</li>
+  <li>Carmine Romano</li>
+  <li>Niall McDiarmind</li>
+  <li>Robbie McIntosh</li>
+  <li>Martin Schoeller</li>
+  <li>David Alan Harvey</li>
+  <li>Bonus project for Italians, the collections “Archivio Balneare” and “Pictures from Italian Profiles” are worth mentioning</li>
+</ul>
+
+<p><strong>Contemporary Artists</strong></p>
+<ul>
+  <li>Alice Pasquini</li>
+  <li>Shawn Coss</li>
+  <li>Bordalo II</li>
+  <li>Sean Yoro</li>
+  <li>Iskander Utebayev</li>
+  <li>Butcher Billy</li>
+  <li>Guillermo Lorca Garcìa</li>
+  <li>Omar Hassan</li>
+  <li>Simone Bianchi</li>
+  <li>Alex Juice</li>
+  <li>Will Conrad</li>
+  <li>Refik Anadol</li>
+  <li>Filippo Giusti</li>
+  <li>Roberto Ferri</li>
+  <li>Maxim Zhestkov</li>
+  <li>Fabrizio Plessi</li>
+  <li>Sy Goldstein</li>
+  <li>Nathan Stockman</li>
+  <li>Flavio Solo</li>
+</ul>
+
+<p><strong>Music Albums</strong></p>
+<ul>
+  <li>Unknown Pleasures, Joy Division, 1979</li>
+  <li>Closer, Joy Division, 1980</li>
+  <li>Disintegration, The Cure, 1989</li>
+  <li>Violator, Depeche Mode, 1990</li>
+  <li>Lucio Dalla, Lucio Dalla, 1979</li>
+  <li>Dalla, Lucio Dalla, 1980</li>
+  <li>The Smiths, The Smiths, 1984</li>
+  <li>Everybody Else Is Doing It, So Why Can’t We?, The Cranberries, 1993</li>
+  <li>No Need To Argue, The Cranberries, 1994</li>
+  <li>Recovery, Eminem, 2010</li>
+  <li>The Slim Shady LP, Eminem, 1999</li>
+  <li>One More Light, Linkin Park, 2017</li>
+  <li>Meteora, Linkin Park, 2003</li>
+</ul>
+
+<p><strong>Podcasts</strong></p>
+<ul>
+  <li>24 mattino, Radio 24</li>
+  <li>Rassegna stampa, Radio 24</li>
+  <li>La Zanzara, Radio 24</li>
+  <li>Congo, Una Storia Sbagliata, Paolo Colombo</li>
+  <li>Io Ero il Milanese, Mauro Pescio</li>
+  <li>Lo Stato Parallelo, Gherardo Colombo</li>
+  <li>Indagini, Stefano Nazzi</li>
+  <li>Veleno, Pablo Trincia</li>
+  <li>Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain</li>
+  <li>L’isola che non c’era, Marco Maisano</li>
+</ul>
+
+<p><strong>Poets</strong></p>
+<ul>
+  <li>Guido Catalano</li>
+  <li>Alda Merini</li>
+  <li>Franco Arminio</li>
+  <li>Pablo Neruda</li>
+</ul>
+
+<p><strong>Books</strong></p>
 <ul>
   <li>Cent’anni di solitudine — Gabriel Garcia Marquez</li>
   <li>Il mondo nuovo — Aldous Huxley</li>
@@ -22,38 +132,7 @@
   <li>Uno nessuno Centomila — Luigi Pirandello</li>
   <li>Una stanza piena di gente — Daniel Keyes</li>
   <li>Touching from a distance — Deborah Curtis</li>
-</ul>
-
-<p><strong>Podcasts</strong></p>
-<ul>
-  <li>24 mattino, Radio 24</li>
-  <li>Rassegna stampa, Radio 24</li>
-  <li>La Zanzara, Radio 24</li>
-  <li>Congo, Una Storia Sbagliata, Paolo Colombo</li>
-  <li>Io Ero il Milanese, Mauro Pescio</li>
-  <li>Lo Stato Parallelo, Gherardo Colombo</li>
-  <li>Indagini, Stefano Nazzi</li>
-  <li>Veleno, Pablo Trincia</li>
-  <li>Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain</li>
-  <li>L’isola che non c’era, Marco Maisano</li>
-</ul>
-
-<p><strong>Music Albums</strong></p>
-<ul>
-  <li>Unknown Pleasures, Joy Division, 1979</li>
-  <li>Closer, Joy Division, 1980</li>
-  <li>Disintegration, The Cure, 1989</li>
-  <li>Violator, Depeche Mode, 1990</li>
-  <li>Lucio Dalla, Lucio Dalla, 1979</li>
-  <li>Dalla, Lucio Dalla, 1980</li>
-  <li>The Smiths, The Smiths, 1984</li>
-  <li>Everybody Else Is Doing It, So Why Can’t We?, The Cranberries, 1993</li>
-  <li>No Need To Argue, The Cranberries, 1994</li>
-  <li>Recovery, Eminem, 2010</li>
-  <li>The Slim Shady LP, Eminem, 1999</li>
-  <li>One More Light, Linkin Park, 2017</li>
-  <li>Meteora, Linkin Park, 2003</li>
-</ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><summary type="html"><![CDATA[A database of interesting material to read or listen]]></summary></entry><entry><title type="html">(ITA) La teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
+</ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><category term="photography" /><category term="art" /><summary type="html"><![CDATA[A database of interesting material to read or listen]]></summary></entry><entry><title type="html">(ITA) La teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
 
 <p>In fin dei conti, stiamo confrontando inquinamento stress e tempo a dire poco penoso con bellezza, apoteosi della dolce vita e quieto vivere. Una prova tangibile di questo fatto è la stessa ambientazione di buona parte dei film italiani, di cui sono particolarmente appassionato. Raramente (per quanto riguarda quelli che apprezzo, mai) l’ambientazione, immaginaria o dichiarata che sia, ricorda quella del capoluogo lombardo. Nella maggior parte dei casi risulta invece essere uno spaccato di vita di cittadini della capitale.</p>
 

@@ -49,7 +49,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Robbie McIntosh
 - Martin Schoeller
 - David Alan Harvey
-- Bonus project for Italians, the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth mentioning
+- Bonus for Italians, the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth mentioning
 
 **Contemporary Artists**
 - Alice Pasquini
@@ -71,6 +71,33 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Sy Goldstein
 - Nathan Stockman
 - Flavio Solo
+
+**Music Albums**
+- Unknown Pleasures, Joy Division, 1979
+- Closer, Joy Division, 1980
+- Disintegration, The Cure, 1989
+- Violator, Depeche Mode, 1990
+- Lucio Dalla, Lucio Dalla, 1979
+- Dalla, Lucio Dalla, 1980
+- The Smiths, The Smiths, 1984
+- Everybody Else Is Doing It, So Why Can't We?, The Cranberries, 1993
+- No Need To Argue, The Cranberries, 1994
+- Recovery, Eminem, 2010
+- The Slim Shady LP, Eminem, 1999
+- One More Light, Linkin Park, 2017
+- Meteora, Linkin Park, 2003
+
+**Podcasts**
+- 24 mattino, Radio 24
+- Rassegna stampa, Radio 24
+- La Zanzara, Radio 24
+- Congo, Una Storia Sbagliata, Paolo Colombo
+- Io Ero il Milanese, Mauro Pescio
+- Lo Stato Parallelo, Gherardo Colombo
+- Indagini, Stefano Nazzi
+- Veleno, Pablo Trincia 
+- Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain
+- L'isola che non c'era, Marco Maisano
 
 **Poets**
 - Guido Catalano
@@ -100,30 +127,5 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Una stanza piena di gente — Daniel Keyes
 - Touching from a distance — Deborah Curtis
 
-**Podcasts**
-- 24 mattino, Radio 24
-- Rassegna stampa, Radio 24
-- La Zanzara, Radio 24
-- Congo, Una Storia Sbagliata, Paolo Colombo
-- Io Ero il Milanese, Mauro Pescio
-- Lo Stato Parallelo, Gherardo Colombo
-- Indagini, Stefano Nazzi
-- Veleno, Pablo Trincia 
-- Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain
-- L'isola che non c'era, Marco Maisano
 
-**Music Albums**
-- Unknown Pleasures, Joy Division, 1979
-- Closer, Joy Division, 1980
-- Disintegration, The Cure, 1989
-- Violator, Depeche Mode, 1990
-- Lucio Dalla, Lucio Dalla, 1979
-- Dalla, Lucio Dalla, 1980
-- The Smiths, The Smiths, 1984
-- Everybody Else Is Doing It, So Why Can't We?, The Cranberries, 1993
-- No Need To Argue, The Cranberries, 1994
-- Recovery, Eminem, 2010
-- The Slim Shady LP, Eminem, 1999
-- One More Light, Linkin Park, 2017
-- Meteora, Linkin Park, 2003
 
