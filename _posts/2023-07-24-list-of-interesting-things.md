@@ -3,7 +3,7 @@ layout: post
 title:  A list of lists of interesting things 
 date: 2023-07-23 21:01:00
 description: A database of interesting material to read or listen
-tags: informal list music podcasts books
+tags: informal list music podcasts books photography
 categories: nontheory
 ---
 Below is a list of things that I enjoyed throughout the years, as the memory comes and goes I will update it. Feel free to give me recommendations based on what you read! Apart from the podcasts, the contents are also translated in English. I will also use it as a personal repository. 
@@ -28,6 +28,9 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Uno nessuno Centomila — Luigi Pirandello
 - Una stanza piena di gente — Daniel Keyes
 - Touching from a distance — Deborah Curtis
+
+**Photographers**
+- abc
 
 **Podcasts**
 - 24 mattino, Radio 24
