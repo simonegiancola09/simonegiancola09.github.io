@@ -6,6 +6,7 @@ description: lectures and poster presentations
 nav: true
 nav_order: 5
 ---
+- (2023-08-25) __"Limits of Message Passing for Mixed phase retrieval"__, IST Internship Poster Session, IST Austria
 - (2023-03-30) __"Compositional RBMs, a bird's eye view"__, Statistical Mechanics Ph.D. course @Bocconi
 <br/>
 \[[Poster](https://simonegiancola09.github.io/assets/pdf/Poster_stat_phys.pdf)\]

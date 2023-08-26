@@ -2,7 +2,7 @@
 layout: post
 title:  A list of lists of interesting things 
 date: 2023-07-23 21:01:00
-description: A database of interesting material to read or listen
+description: A database of interesting material to read, listen, watch, contemplate
 tags: informal list music podcasts books photography art
 categories: nontheory
 ---
@@ -86,6 +86,8 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - The Slim Shady LP, Eminem, 1999
 - One More Light, Linkin Park, 2017
 - Meteora, Linkin Park, 2003
+- Low-Life, New Order, 1985
+- Substance, New Order, 1987
 
 **Podcasts**
 - 24 mattino, Radio 24
@@ -98,6 +100,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Veleno, Pablo Trincia 
 - Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain
 - L'isola che non c'era, Marco Maisano
+- La vita dopo, il caso Luca Delfino, Pietro Adami e Simone Gorla
 
 **Poets**
 - Guido Catalano
