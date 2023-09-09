@@ -18,7 +18,7 @@ nav_order: 5
 
 <script>
 // JavaScript code to fetch and display random quote with image and credit from your CSV file.
-const quotesURL = 'https://raw.githubusercontent.com/simonegiancola09/simonegiancola09.github.io/master/assets/csv/quotes_list.csv';
+const quotesURL = 'https://raw.githubusercontent.com/simonegiancola09/simonegiancola09.github.io/master/assets/json/quotes_list.json';
 
 async function getRandomQuote() {
   const response = await fetch(quotesURL);
