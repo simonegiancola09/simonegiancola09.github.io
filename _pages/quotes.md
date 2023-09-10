@@ -2,7 +2,7 @@
 layout: page
 title: quotes
 permalink: /quotes/
-description: A collection of quotes that I like, if you have suggestions, email me! Currently need to adjust some comma vs CSV issues.
+description: A collection of quotes that I like, if you have suggestions, email me!
 nav: true
 nav_order: 5
 ---
