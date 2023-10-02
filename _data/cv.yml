@@ -14,11 +14,11 @@
 - title: Education
   type: time_table
   contents:
-    - title: Master of Science
+    - title: Master of Science in Data Science, Data Science major
       institution: Bocconi University, Milan, Italy
       year: Aug 2021- Dec 2023
       description:
-        - <b> GPA </b> 29.20/30
+        - <b> GPA </b> 29/30
         - title: relevant coursework
           contents:
             - <b> Ph.D. </b> Real Analysis (Optimal Transport), Graph Theory, Statistical Physics
@@ -41,6 +41,13 @@
 - title: Experience
   type: time_table
   contents:
+   - title: Research Intern
+      institution: Ecole Normale Superieure Paris, FRA
+      year: Oct 2023 - Present
+      description:
+        - <b>Advisor:</b> Bruno Loureiro
+        - Neural Network Theory, high-dimensional data, mean-field limit, gradient flow
+    
     - title: Research Intern
       institution: Institute of Science and Technology Austria (ISTA) Wien, AUT
       year: Jun 2023 - Aug 2023
@@ -48,12 +55,13 @@
         - <b>Advisor:</b> Prof. Marco Mondelli
         - Statistical to Computational Gaps, Information Theory, Algorithms, Message Passing
         - ISTernship Summer Programme, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
+    
     - title: Visiting Student
       institution: Bocconi Institute for Data Science, Milan, ITA
       year: Mar 2022 - Jun 2023
       description:
         - Advisors Prof. Carlo Lucibello and Prof. Luca Saglietti, Computing Sciences Department
-        - Reading and self-study activities
+        - Reading, self-study, writing
 
     - title: Data Science Intern
       institution: Santagostino Clinic Milan, ITA
@@ -64,7 +72,7 @@
       year: Jan 2021 - May 2021
       description:
         - Advisor Prof. Emanuele Borgonovo
-        - Conducted research on extraction of a Value of Information measure from a SVM algorithm
+        - Value of Information, Support Vector Machines
 
 - title: Portfolio and Talks
   type: time_table

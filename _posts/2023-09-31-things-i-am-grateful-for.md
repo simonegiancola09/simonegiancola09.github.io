@@ -1,0 +1,39 @@
+Things I am grateful for
+
+---
+layout: post
+title:  What I am grateful for
+date: 2023-09-31 21:01:00
+Description: Discussing some aspects of life that I sometimes forget to acknowledge
+tags: thoughts informal goodthings
+categories: nontheory
+---
+
+After a very happy period in Austria, and a month spent back at home, I am in the position to assess my life situation in a way that I hardly could have had years ago. I have seldom been the type of person that recognizes aspects of life that are not for granted, so I will take this moment and this post to collect many things I should try not to forget. Maybe it will be helpful in the hard times. 
+### One important remark
+This discussion will almost certainly be under continuous updates.
+
+
+## The humans
+First of all, I am grateful to my family. My parents have always supported me, pushing me forward without ever doubting what I wanted to do. My brother: we have grown together and shared so much across the years, I cannot even describe with words what I think about the bond we have. My grandparents, who have raised me since I was little with so much love, all for nothing in return. I am grateful to each and every eccentric, strange and lovely member of my family that has even partially been part of me growing up. As a matter of fact, I sometimes feel even closer to those that have always been hours away from my hometown. 
+
+Secondly, I am very proud of being able to say that I met a LOT of people that have been fundamental over the years. Both in Italy and abroad. I really love having many friends, texting them, asking them about their life, discussing stupid and clever ideas. Among the many, each one has a peculiar trait that makes the relationship worth it. I am super happy that everyone is struggling daily with their lives and willing to share some of it with me, and feel very fortunate that they can bear my sometimes very daunting personality. I do wish the best for them. I know I will want to pursue paths that will take me far away from most (if not all of them), but they will always be in my heart. 
+
+## The things
+I feel very fortunate to have visited around TODO countries. Of these, I lived in more than 4, worked in more than 3. Being 24 years old, this is very peculiar, especially since it was never because of my parents’ professional career. I have always wanted to travel, and got offered to on many occasions, for which I was sometimes (most of) financially supported. This is clearly not an opportunity that everyone has, and I do think it is something I am extremely thankful for. Travelling is one of the activities that makes you grow up faster, and I have certainly been exposed to it. 
+I have also had the sheer luck of finding something I like and being able to pursue it. This is by no means common and must be recognized. Being able to reason about questions as a job is a privilege that is not given to many, and I work each day to prove my worth in this matter, that is very long to come (if ever). And this is just the tip of the iceberg of a collection of good events that led me to be able to get here. Many life stages have been fundamental and without them I would not be in this situation. 
+I do love the fact that these same things in life have brought numerous side effects, not only related to “job life”. The constant stimulus and the wish for being exposed to many different contexts have brought me to greatly enjoy music, art, cinema, poetry, and many other activities that do not overlap a lot with what I try to do day-to-day. Despite this, I have always had great admiration for those that are able to perform them, and am always on the look for new things to listen, watch, contemplate or learn about. Now and always,I am grateful to be allowed to pursue what I like, 99% of the time. Knowing that this is very rare, it is probably the luckiest part of my everyday life. 
+
+
+## South
+On a side note, I am strangely super proud of having visited most of the southern part of Italy. Despite the large critics brought forward, the south is unbeatable. The power of the people, the strong culture and the beauty truly do not deserve the treatment it has always received. I wish Italy will once be a place where the south has blossomed. 
+### A quick “flow of thought” rant
+However, if I had to think straight, this is not going to happen. I will forever be left thinking about lower Italy’s broken beauty: Sicilia, Puglia, Campania, Sardinia (not proper south), and the most underrated Calabria. Even only the smell of their lands is impossible to find anywhere else. 
+Unfortunately, the way in which politics, people and societal dynamics are not making their situation better is appalling. If I could choose, I would 100% live in the south. As a matter of fact, I believe that most Italians unreasonably think that life in the north is better, while it is actually not, at all. Maybe this deserves more context, and will be discussed on a different occasion. Long live to the south!!!
+
+
+
+
+
+
+

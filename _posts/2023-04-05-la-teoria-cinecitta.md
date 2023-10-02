@@ -57,6 +57,7 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Ovosodo
 - Tutta Colpa di Freud
 - Romanzo Criminale
+- Il Ciclone
 
 **Menzione D'onore**, per i film italiani di successo ma non ambientati propriamente in Italia. 
 - Mediterraneo (Abatantuono, Bisio)

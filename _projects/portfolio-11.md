@@ -1,0 +1,10 @@
+---
+layout: page
+title: Five Lectures on Nonparametric Neural Networks
+description: Lecture Notes
+img: assets/img/manifold_ball.png
+importance: 1
+category: short
+---
+
+Write-up of lecture notes from the 2022 Les Houches Statistical Physics and Machine Learning Summer School ((link to website)[https://leshouches2022.github.io/]). The videos are available on Youtube ((Link)[https://www.youtube.com/playlist?list=PLEIq5bchE3R1hMF5Omlr-2t0nwKa0LrWL]).

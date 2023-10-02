@@ -14,7 +14,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Paolo Nicolai
 - Fabio Viale
 - Leo Caillard
-- Filippo Tincolini
+- Filippo Nicolini
 - Francesco Filiberto Tonnarelli
 - Federico Benedetti
 - Bruno Cesar Catalano
@@ -101,6 +101,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain
 - L'isola che non c'era, Marco Maisano
 - La vita dopo, il caso Luca Delfino, Pietro Adami e Simone Gorla
+- Dove nessuno guarda, Pablo Trincia
 
 **Poets**
 - Guido Catalano

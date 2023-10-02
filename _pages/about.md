@@ -9,9 +9,9 @@ profile:
   image: profile_picture.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>I21.O1.112</p>
-    <p>Office Building West, IST Austria</p>
-    <p>Am Campus 1, 3400 Klosterneuburg, Austria</p>
+    <p>Center for Data Science, BD 304 16</p>
+    <p>Departement d'Informatique, ENS Paris</p>
+    <p>45 Rue d'Ulm, 75005 Paris, France</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/) and a 2nd year MS in Data Science student at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/). Before my graduate studies, I completed a Bachelor in Economics and Computer Science.
+I am a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of Prof. [Bruno Loureiro](https://brloureiro.github.io/). Last summer, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/). I am about to graduate from a MS in Data Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/). Before my graduate studies, I completed a Bachelor in Economics and Computer Science.
 
 - 🛠 My main research interest is **Theory of Learning** and of **Neural Networks** broadly 
 
