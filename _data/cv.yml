@@ -41,13 +41,13 @@
 - title: Experience
   type: time_table
   contents:
-   - title: Research Intern
-      institution: Ecole Normale Superieure Paris, FRA
-      year: Oct 2023 - Present
+    - title: Research Intern
+      institution: Ecole Normale Superieure (ENS), Paris, FRA
+      year: Oct 2023 - Dec 2023
       description:
         - <b>Advisor:</b> Bruno Loureiro
-        - Neural Network Theory, high-dimensional data, mean-field limit, gradient flow
-    
+        - Theory of Neural Networks, Stochastic Gradient Descent
+  
     - title: Research Intern
       institution: Institute of Science and Technology Austria (ISTA) Wien, AUT
       year: Jun 2023 - Aug 2023
@@ -77,7 +77,7 @@
 - title: Portfolio and Talks
   type: time_table
   contents:
-    - title: Compositional RBMs, a Bird’s Eye view 
+    - title: Compositional RBMs, a Birds Eye view 
       year: Mar 2023
       description: Restricted Boltzmann Machines, Statistical Physics, Unsupervised Learning
     - title: A view on Percolation and Spin Systems

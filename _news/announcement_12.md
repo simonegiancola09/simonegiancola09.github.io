@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-very excited to share that I will continue as a Research Intern at Ecole Normale Superieure ([ENS](https://www.ens.psl.eu/)). I will be in Prof. [Bruno Loureiro](https://brloureiro.github.io/)'s group and work on Stochastic Gradient Descent for structured data. 
+very excited to share that I will continue as a Research Intern at Ecole Normale Superieure ([ENS](https://www.ens.psl.eu/)). I will be in [Bruno Loureiro](https://brloureiro.github.io/)'s group and work on Stochastic Gradient Descent for structured data. 
