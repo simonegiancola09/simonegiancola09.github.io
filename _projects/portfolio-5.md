@@ -3,7 +3,7 @@ layout: page
 title: Bayesian MCMC Probit
 description: Markov Chain Monte Carlo Sampling from a Probit GLM, December 2021
 img: assets/img/Triple_dim_acc_rej_123.png
-importance: 2
+importance: 3
 category: short
 ---
 To access the report only, please click [here](http://simonegiancola09.github.io/assets/pdf/bayesian_MCMC_analysis.pdf)

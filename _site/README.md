@@ -1,6 +1,6 @@
 Personal Website 
 ====
-Under construction, template from [al-folio](https://github.com/alshedivat/al-folio). 
+Template from [al-folio](https://github.com/alshedivat/al-folio). 
 
 Tips:
 ```
@@ -45,4 +45,3 @@ Call bin/deploy —user
 Proceed
 ```
 
-AAAA

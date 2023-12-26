@@ -24,11 +24,14 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Viaggi di Nozze
 - Bianco, Rosso e Verdone
 - Io, Loro e Lara
-- Il mio Milgior Nemico
+- Il mio Miglior Nemico
+- Sono pazzo di Iris Blond
+- Compagni di Scuola
 
 **Massimo Troisi**
 - Il postino
 - Non ci resta che piangere
+
 
 **Gabriele Muccino**
 - L'ultimo bacio
@@ -38,6 +41,10 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Come te Nessuno Mai
 - Ricordati di me
 - La Prima Cosa Bella
+
+**Paolo Sorrentino**
+- La grande Bellezza
+- È stata la mano di dio
 
 **Edoardo Leo**
 - Era ora

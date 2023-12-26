@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-10-02T22:11:12+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-26T19:26:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
 </subtitle><entry><title type="html">Things I Am Grateful For</title><link href="http://localhost:4000/blog/2023/things-i-am-grateful-for/" rel="alternate" type="text/html" title="Things I Am Grateful For" /><published>2023-10-01T00:00:00+02:00</published><updated>2023-10-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/2023/things-i-am-grateful-for</id><content type="html" xml:base="http://localhost:4000/blog/2023/things-i-am-grateful-for/"><![CDATA[<p>Things I am grateful for</p>
 
 <hr />
@@ -57,6 +57,7 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 
 <p><strong>Photographers</strong></p>
 <ul>
+  <li>Merrick Morton</li>
   <li>George Steinmetz</li>
   <li>Michael Yamasita</li>
   <li>Steve McCurry</li>
@@ -144,6 +145,9 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>L’isola che non c’era, Marco Maisano</li>
   <li>La vita dopo, il caso Luca Delfino, Pietro Adami e Simone Gorla</li>
   <li>Dove nessuno guarda, Pablo Trincia</li>
+  <li>Disobbedisco, Sibilla Barbieri, L’ultimo viaggio verso la Libertà, Valentina Petrini</li>
+  <li>Ti scorderai di me, Sergio Ramazzotti e Giovanni Savarese</li>
+  <li>L’inverno demografico - Cosa c’è da sapere, Mauro Meazza, Michela Finzio</li>
 </ul>
 
 <p><strong>Poets</strong></p>
@@ -176,6 +180,7 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Uno nessuno Centomila — Luigi Pirandello</li>
   <li>Una stanza piena di gente — Daniel Keyes</li>
   <li>Touching from a distance — Deborah Curtis</li>
+  <li>How to solve it, George Polya</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><category term="photography" /><category term="art" /><summary type="html"><![CDATA[A database of interesting material to read, listen, watch, contemplate]]></summary></entry><entry><title type="html">(ITA) La teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
 
 <p>In fin dei conti, stiamo confrontando inquinamento stress e tempo a dire poco penoso con bellezza, apoteosi della dolce vita e quieto vivere. Una prova tangibile di questo fatto è la stessa ambientazione di buona parte dei film italiani, di cui sono particolarmente appassionato. Raramente (per quanto riguarda quelli che apprezzo, mai) l’ambientazione, immaginaria o dichiarata che sia, ricorda quella del capoluogo lombardo. Nella maggior parte dei casi risulta invece essere uno spaccato di vita di cittadini della capitale.</p>
@@ -195,7 +200,9 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Viaggi di Nozze</li>
   <li>Bianco, Rosso e Verdone</li>
   <li>Io, Loro e Lara</li>
-  <li>Il mio Milgior Nemico</li>
+  <li>Il mio Miglior Nemico</li>
+  <li>Sono pazzo di Iris Blond</li>
+  <li>Compagni di Scuola</li>
 </ul>
 
 <p><strong>Massimo Troisi</strong></p>
@@ -213,6 +220,12 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Come te Nessuno Mai</li>
   <li>Ricordati di me</li>
   <li>La Prima Cosa Bella</li>
+</ul>
+
+<p><strong>Paolo Sorrentino</strong></p>
+<ul>
+  <li>La grande Bellezza</li>
+  <li>È stata la mano di dio</li>
 </ul>
 
 <p><strong>Edoardo Leo</strong></p>

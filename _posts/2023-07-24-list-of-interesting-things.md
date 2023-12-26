@@ -21,6 +21,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Massimiliano Pelletti
 
 **Photographers**
+- Merrick Morton
 - George Steinmetz
 - Michael Yamasita
 - Steve McCurry
@@ -102,6 +103,9 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - L'isola che non c'era, Marco Maisano
 - La vita dopo, il caso Luca Delfino, Pietro Adami e Simone Gorla
 - Dove nessuno guarda, Pablo Trincia
+- Disobbedisco, Sibilla Barbieri, L'ultimo viaggio verso la Libertà, Valentina Petrini
+- Ti scorderai di me, Sergio Ramazzotti e Giovanni Savarese
+- L'inverno demografico - Cosa c'è da sapere, Mauro Meazza, Michela Finzio
 
 **Poets**
 - Guido Catalano
@@ -130,6 +134,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Uno nessuno Centomila — Luigi Pirandello
 - Una stanza piena di gente — Daniel Keyes
 - Touching from a distance — Deborah Curtis
+- How to solve it, George Polya
 
 
 
