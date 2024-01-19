@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Probability Theory Hybrid Notes
-description: A big theoretical course
+description: A big theoretical course. Jan '23
 img: assets/img/stochastic_process.jpeg
 importance: 1
 category: long

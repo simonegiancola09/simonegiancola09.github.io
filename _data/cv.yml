@@ -16,9 +16,11 @@
   contents:
     - title: Master of Science in Data Science, Data Science major
       institution: Bocconi University, Milan, Italy
-      year: Aug 2021- Dec 2023
+      year: Aug 2021- Apr 2024
       description:
         - <b> GPA </b> 29/30
+        - Thesis "A roadmap to Message Passing methods for inference on Mixed Generalized Linear Models, with emphasis on Mixed Noiseless Phase Retrieval"
+        - <b> Advisor </b> Prof. Carlo Lucibello
         - title: relevant coursework
           contents:
             - <b> Ph.D. </b> Real Analysis (Optimal Transport), Graph Theory, Statistical Physics
@@ -34,7 +36,7 @@
       year: Aug 2018- Jul 2021
       description:
         - Grade 110 Cum Laude / 110
-        - Thesis *“Value of Information in a Support Vector Machine, an exploration”*
+        - Thesis “Value of Information in a Support Vector Machine, an exploration”
         - GPA 29.18 / 30 , <b> STEM GPA 30.14 / 30 </b>
         - Relevant coursework Advanced Statistical Methods, Applied Mathematics, Machine Learning
 
@@ -98,6 +100,9 @@
 - title: Other self study / extracurriculars
   type: time_table
   contents:
+    - title: Lectures on linearized Neural Networks
+      year: Summer 2023
+      description: Kernels, Ridge Regression, High Dimensional Probability
     - title: Probability Theory 
       year: Sep 2022 - Jan 2023
       description: Measure Theory, Stochastic Processes

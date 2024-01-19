@@ -19,7 +19,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of Prof. [Bruno Loureiro](https://brloureiro.github.io/). Last summer, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/). I am about to graduate from a MS in Data Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/). Before my graduate studies, I completed a Bachelor in Economics and Computer Science.
+I recently have been a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of [Bruno Loureiro](https://brloureiro.github.io/). Last summer, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/). I am about to graduate from a MS in Data Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/). Before my graduate studies, I completed a Bachelor in Economics and Computer Science.
 
 - 🛠 My main research interest is **Theory of Learning** and of **Neural Networks** broadly 
 

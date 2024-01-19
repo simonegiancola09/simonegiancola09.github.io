@@ -1,5 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2023-12-26T19:26:13+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
-</subtitle><entry><title type="html">Things I Am Grateful For</title><link href="http://localhost:4000/blog/2023/things-i-am-grateful-for/" rel="alternate" type="text/html" title="Things I Am Grateful For" /><published>2023-10-01T00:00:00+02:00</published><updated>2023-10-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/2023/things-i-am-grateful-for</id><content type="html" xml:base="http://localhost:4000/blog/2023/things-i-am-grateful-for/"><![CDATA[<p>Things I am grateful for</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-01-19T18:47:52+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>Research Intern @IST Austria, Data Science MS student @Bocconi
+</subtitle><entry><title type="html">The (unexpected) Parisian Experience</title><link href="http://localhost:4000/blog/2023/france-wrap-up/" rel="alternate" type="text/html" title="The (unexpected) Parisian Experience" /><published>2023-12-26T22:01:00+01:00</published><updated>2023-12-26T22:01:00+01:00</updated><id>http://localhost:4000/blog/2023/france-wrap-up</id><content type="html" xml:base="http://localhost:4000/blog/2023/france-wrap-up/"><![CDATA[<p>I have recently finished my wonderful stay at École Normale Supérieure. It has been a busy three months, of which I am very grateful. The city is a beautiful mess, and literally never sleeps. People on the undergound grind their whole trip to work at any time of the day, as I did. On the relax side, the <strong>Parisien</strong> know well when to rest. It looks like everyone is very well aware of the tool that the city places upon its citizens, something that I did not really understand the first month.</p>
+
+<p>Despite this, I have been supported by wonderful people, in what probably is <strong>The</strong> institution for research. Without exxageration, my corridor held a portion of the best researchers in the field, as well as lots of young promising colleagues, always available to discuss and help. I can only thank everyone for their time and willingness to make me grow.</p>
+
+<p>On a very important aspect to remark, France, and especially Paris, are some of the very rare places where researchers are not only respected but protected. This is very noticeable on many aspects, from job security to freedom of research pursuance. Despite the sweet beaurocracy very akin to the Italian style, the guys do know how to make a clever person like the ones I was with thrive. Their love extends so much that the most important names in science make their way to be engraved in the Eiffel Tower, which is something that amazes me to this day. Long live to this, France is a place of freedom and self-expression! I can only respect this way of thinking.</p>]]></content><author><name></name></author><category term="nontheory" /><category term="research" /><category term="life" /><category term="europe" /><category term="opinions" /><summary type="html"><![CDATA[A wrap-up of my three months in France]]></summary></entry><entry><title type="html">Things I Am Grateful For</title><link href="http://localhost:4000/blog/2023/things-i-am-grateful-for/" rel="alternate" type="text/html" title="Things I Am Grateful For" /><published>2023-10-01T00:00:00+02:00</published><updated>2023-10-01T00:00:00+02:00</updated><id>http://localhost:4000/blog/2023/things-i-am-grateful-for</id><content type="html" xml:base="http://localhost:4000/blog/2023/things-i-am-grateful-for/"><![CDATA[<p>Things I am grateful for</p>
 
 <hr />
 <p>layout: post
@@ -148,6 +152,10 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Disobbedisco, Sibilla Barbieri, L’ultimo viaggio verso la Libertà, Valentina Petrini</li>
   <li>Ti scorderai di me, Sergio Ramazzotti e Giovanni Savarese</li>
   <li>L’inverno demografico - Cosa c’è da sapere, Mauro Meazza, Michela Finzio</li>
+  <li>Io sono Libero, Alessandro Milan</li>
+  <li>Il gioco del Mostro, Giulia Bianconi</li>
+  <li>Il dito di Dio, Pablo Trincia</li>
+  <li>A domani, Nicolò Agliardi</li>
 </ul>
 
 <p><strong>Poets</strong></p>
@@ -180,7 +188,13 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Uno nessuno Centomila — Luigi Pirandello</li>
   <li>Una stanza piena di gente — Daniel Keyes</li>
   <li>Touching from a distance — Deborah Curtis</li>
-  <li>How to solve it, George Polya</li>
+  <li>How to solve it, George Pólya</li>
+</ul>
+
+<p><strong>Youtube Channels</strong></p>
+<ul>
+  <li>Soft White Underbelly, Mark Laita</li>
+  <li>The Pillow</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><category term="photography" /><category term="art" /><summary type="html"><![CDATA[A database of interesting material to read, listen, watch, contemplate]]></summary></entry><entry><title type="html">(ITA) La teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
 
 <p>In fin dei conti, stiamo confrontando inquinamento stress e tempo a dire poco penoso con bellezza, apoteosi della dolce vita e quieto vivere. Una prova tangibile di questo fatto è la stessa ambientazione di buona parte dei film italiani, di cui sono particolarmente appassionato. Raramente (per quanto riguarda quelli che apprezzo, mai) l’ambientazione, immaginaria o dichiarata che sia, ricorda quella del capoluogo lombardo. Nella maggior parte dei casi risulta invece essere uno spaccato di vita di cittadini della capitale.</p>

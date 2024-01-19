@@ -106,6 +106,11 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Disobbedisco, Sibilla Barbieri, L'ultimo viaggio verso la Libertà, Valentina Petrini
 - Ti scorderai di me, Sergio Ramazzotti e Giovanni Savarese
 - L'inverno demografico - Cosa c'è da sapere, Mauro Meazza, Michela Finzio
+- Io sono Libero, Alessandro Milan
+- Il gioco del Mostro, Giulia Bianconi
+- Il dito di Dio, Pablo Trincia
+- A domani, Nicolò Agliardi
+
 
 **Poets**
 - Guido Catalano
@@ -134,7 +139,11 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Uno nessuno Centomila — Luigi Pirandello
 - Una stanza piena di gente — Daniel Keyes
 - Touching from a distance — Deborah Curtis
-- How to solve it, George Polya
+- How to solve it, George Pólya
+
+**Youtube Channels**
+- Soft White Underbelly, Mark Laita
+- The Pillow
 
 
 

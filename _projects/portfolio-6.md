@@ -4,7 +4,7 @@ title: Support Vector Machine and Value of Information, an exploration
 description: Bachelor Thesis, 2021
 img: assets/img/rec_dat_thesis.jpg
 importance: 3
-category: short
+category: vintage
 ---
 To access the PDF, please click [here](http://simonegiancola09.github.io/assets/pdf/Support_vector_machine_and_value_of_information_an_exploration.pdf). 
 
