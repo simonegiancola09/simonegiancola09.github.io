@@ -18,7 +18,8 @@
       institution: Bocconi University, Milan, Italy
       year: Aug 2021- Apr 2024
       description:
-        - <b> GPA </b> 29/30
+        - Grade 
+        - <b> GPA </b> 29/30, Final grade 110 cum Laude/ 110
         - Thesis "A roadmap to Message Passing methods for inference on Mixed Generalized Linear Models, with emphasis on Mixed Noiseless Phase Retrieval"
         - <b> Advisor </b> Prof. Carlo Lucibello
         - title: relevant coursework
@@ -43,6 +44,13 @@
 - title: Experience
   type: time_table
   contents:
+    - title: Research Intern
+      institution: King Abdullah University of Science and Technology (KAUST), KSA
+      year: Feb 2024 - May 2024
+      description:
+        - <b>Advisor:</b> Prof. Peter Richtárik
+        - Convex Optimization, Conditioned Gradient Descent methods
+  
     - title: Research Intern
       institution: Ecole Normale Superieure (ENS), Paris, FRA
       year: Oct 2023 - Dec 2023
@@ -111,7 +119,7 @@
       description: Machine Learning, Optimization, Physics, Neural Networks
     - title: Geometric Deep Learning 
       year: Jun 2022 - Dec 2022 
-      description: First Italian School in Geometric Deep Learning, Funded MS student. Group Theory, Statistical Learning, Neural Networks, Topology  
+      description: Group Theory, Statistical Learning, Neural Networks, Topology  
     - title: Bayesian MCMC probit analysis | co-authored
       year:  Dec 2021
       description: Gibbs Instrumental Algorithm, Metropolis Random Walk Algorithm
@@ -127,6 +135,11 @@
     - <b> Advanced </b> Python, Latex, Sklearn, Numpy, Matplotlib, Scipy;
     - <b> Certifications </b> Deep Learning and AI for Medicine by DeepLearning.AI;
     - <b> Intermediate </b> Julia, Git, Unix, R, SQL, Matlab, C++, Keras, Tensorflow
+- Title: Awards
+  type: list
+  contents:
+    - First Italian School in Geometric Deep Learning, Funded MS student.
+    - OeAD Scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
 - title: Interests
   type: list
   contents:

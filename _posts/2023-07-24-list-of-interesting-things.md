@@ -50,7 +50,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Robbie McIntosh
 - Martin Schoeller
 - David Alan Harvey
-- Bonus for Italians, the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth mentioning
+- Bonus for the Italians: the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth checking out. 
 
 **Contemporary Artists**
 - Alice Pasquini
@@ -94,22 +94,23 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - 24 mattino, Radio 24
 - Rassegna stampa, Radio 24
 - La Zanzara, Radio 24
-- Congo, Una Storia Sbagliata, Paolo Colombo
-- Io Ero il Milanese, Mauro Pescio
-- Lo Stato Parallelo, Gherardo Colombo
-- Indagini, Stefano Nazzi
-- Veleno, Pablo Trincia 
-- Mitologia: le Meravigliose Storie del Mondo Antico, Alessandro Gelain
-- L'isola che non c'era, Marco Maisano
-- La vita dopo, il caso Luca Delfino, Pietro Adami e Simone Gorla
-- Dove nessuno guarda, Pablo Trincia
-- Disobbedisco, Sibilla Barbieri, L'ultimo viaggio verso la Libertà, Valentina Petrini
-- Ti scorderai di me, Sergio Ramazzotti e Giovanni Savarese
-- L'inverno demografico - Cosa c'è da sapere, Mauro Meazza, Michela Finzio
-- Io sono Libero, Alessandro Milan
-- Il gioco del Mostro, Giulia Bianconi
-- Il dito di Dio, Pablo Trincia
-- A domani, Nicolò Agliardi
+- Congo, Una Storia Sbagliata; Paolo Colombo
+- Io Ero il Milanese; Mauro Pescio
+- Lo Stato Parallelo; Gherardo Colombo
+- Indagini; Stefano Nazzi
+- Veleno; Pablo Trincia 
+- Mitologia: le Meravigliose Storie del Mondo Antico; Alessandro Gelain
+- L'isola che non c'era; Marco Maisano
+- La vita dopo, il caso Luca Delfino; Pietro Adami e Simone Gorla
+- Dove nessuno guarda; Pablo Trincia
+- Disobbedisco, Sibilla Barbieri, L'ultimo viaggio verso la Libertà; Valentina Petrini
+- Ti scorderai di me; Sergio Ramazzotti e Giovanni Savarese
+- L'inverno demografico - Cosa c'è da sapere; Mauro Meazza, Michela Finzio
+- Io sono Libero; Alessandro Milan
+- Il gioco del Mostro; Giulia Bianconi
+- Il dito di Dio; Pablo Trincia
+- A domani; Nicolò Agliardi
+- Questo è Messina Denaro; Antonio Iovane, Lirio Abbate
 
 
 **Poets**
@@ -140,6 +141,7 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Una stanza piena di gente — Daniel Keyes
 - Touching from a distance — Deborah Curtis
 - How to solve it, George Pólya
+- L'isola di Arturo, Elsa Morante
 
 **Youtube Channels**
 - Soft White Underbelly, Mark Laita

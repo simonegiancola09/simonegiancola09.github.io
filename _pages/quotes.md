@@ -16,6 +16,37 @@ nav_order: 6
 <script>
   // Define your quotes as an array of objects directly within JavaScript.
   const quotesList = [
+    {
+   "Quote": "The purpose of computing is insight, not numbers.",
+   "Author": "Richard Hamming (1915 - 1998)",
+   "Image": "https://upload.wikimedia.org/wikipedia/en/0/08/Richard_Hamming.jpg",
+   "Credit": "Wikipedia"
+ },
+  {
+   "Quote": "Mathematics is a language",
+   "Author": "Josiah Willard Gibbs (1839-1903)",
+   "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Josiah_Willard_Gibbs_-from_MMS-.jpg/440px-Josiah_Willard_Gibbs_-from_MMS-.jpg",
+   "Credit": "Wikipedia"
+ },
+  {
+   "Quote": "Shut up and calculate",
+   "Author": "Nathaniel David Mermin (1935-)",
+   "Image": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Mermin_Stockholm_2009.jpg/600px-Mermin_Stockholm_2009.jpg",
+   "Credit": "Wikipedia"
+ },
+  {
+   "Quote": "I believe that mathematical reality lies outside us, that our function is to discover or observe it, and that the theorems which we prove, and which we describe grandiloquently as our ``creations'', are simply our notes of our observations. This view has been held, in one form or another, by many philosophers of high reputation from Plato onwards, and I shall use the language which is natural to a man who holds it.",
+   "Author": "Godfrey Harold Hardy (1877-1947)",
+   "Image": "https://upload.wikimedia.org/wikipedia/commons/3/35/Ghhardy%4072.jpg",
+   "Credit": "Wikipedia"
+ },
+{
+   "Quote": "Before I came here I was confused about this subject. Having listened to your lecture I am still confused. But on a higher level.",
+   "Author": "Enrico Fermi (1901-1954)",
+   "Image": "https://tr.wikipedia.org/wiki/Dosya:Enrico_Fermi_1943-49.jpg",
+   "Credit": "Wikipedia"
+ },
+
  {
    "Quote": "Be less curious about people and more curious about ideas.",
    "Author": "Maria Sklodowska-Curie (1967-1934)",
