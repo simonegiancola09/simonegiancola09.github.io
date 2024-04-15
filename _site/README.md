@@ -35,6 +35,8 @@ Check change
 Once finished commit
 Call
 ```
+git add .
+git commit -m "message"
 bin/deploy —user 
 ```
 Proceed
