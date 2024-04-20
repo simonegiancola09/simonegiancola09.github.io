@@ -38,5 +38,4 @@ The prompt I gave to Dall-E2 for the suprinsingly self resembling image was
 Perharps I am a ground state of some Open AI's ML pipeline...
 
 
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=200&t=n&d=qs39rMdrVTM_HJ76vd9onjL2aVddHeOSFVC41_w-BQg&co=81219b&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
-
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=qs39rMdrVTM_HJ76vd9onjL2aVddHeOSFVC41_w-BQg&co=81219b&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
