@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Five Lectures on Nonparametric Neural Networks
-description: Lecture Notes
+description: Lecture Notes, Sep 2023
 img: assets/img/manifold_ball.png
 importance: 1
 category: short

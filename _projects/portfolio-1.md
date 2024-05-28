@@ -4,7 +4,7 @@ title: Notions in Optimal Transport for Sigmoid Neural Networks
 description: A beginners’ analysis of "On the Global Convergence of Gradient Descent for Over-Parameterized Models using Optimal Transport", Chizat, Bach, Jan 2023
 img: assets/img/cover_RA_II.png
 importance: 1
-category: short
+category: vintage
 ---
 
 To access the document, please click \[[PDF](https://simonegiancola09.github.io/assets/pdf/RA_II_report.pdf)\] 

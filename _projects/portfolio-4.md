@@ -4,7 +4,7 @@ title: Bipartite Matching, Framework and Solutions
 description: A path to the Hungarian Algorithm and beyond, June 2022
 img: assets/img/perf_match.png
 importance: 2
-category: short
+category: vintage
 ---
 To access the theoretical document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/Algorithms_Hungarian_chapters.pdf)\]
 <br/>

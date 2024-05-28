@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  On the importance of having a mission
+title:  On the Importance of Having a Mission
 date: 2023-04-04 21:01:00
 description: A wrap up of thoughts
 tags: thoughts informal goodthings

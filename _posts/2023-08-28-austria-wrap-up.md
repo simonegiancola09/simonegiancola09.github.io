@@ -2,7 +2,7 @@
 layout: post
 title: My 2 cents on Wien, IST and doing Research 
 date: 2023-08-27 21:01:00
-description: A wrap-up of my three months in Austria
+description: A Wrap-up of my Three Months in Austria
 tags: research life europe opinions
 categories: nontheory
 ---

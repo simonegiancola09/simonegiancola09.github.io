@@ -83,10 +83,20 @@
       description:
         - Advisor Prof. Emanuele Borgonovo
         - Value of Information, Support Vector Machines
+- title: Publications
+  type: time_table
+  contents:
+  - title: "Local Curvature Descent: Squeezing More Curvature out of Standard and Polyak Gradient Descent"
+    year: May 2023
+    institution: with Peter Richtárik, Dymitr Lubczyk and Robin Yadav
+    description: arXiv preprint
 
 - title: Portfolio and Talks
   type: time_table
   contents:
+    - title: Spot Topics for Inference and Statistical Physics
+      year: May 2023
+      description: Theoretical results in Statistical Physics, Information Theory, Statistics
     - title: Compositional RBMs, a Birds Eye view 
       year: Mar 2023
       description: Restricted Boltzmann Machines, Statistical Physics, Unsupervised Learning
@@ -140,6 +150,7 @@
   contents:
     - First Italian School in Geometric Deep Learning, Funded MS student.
     - OeAD Scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
+    - Meritorious Award for volunteering during the COVID-19 Pandemic. Awarded by the Municipality of San Donato Milanese, Italy. 
 - title: Interests
   type: list
   contents:

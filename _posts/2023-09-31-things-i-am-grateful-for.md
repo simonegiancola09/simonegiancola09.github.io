@@ -2,7 +2,7 @@ Things I am grateful for
 
 ---
 layout: post
-title:  What I am grateful for
+title:  What I Am Grateful for
 date: 2023-09-31 21:01:00
 Description: Discussing some aspects of life that I sometimes forget to acknowledge
 tags: thoughts informal goodthings

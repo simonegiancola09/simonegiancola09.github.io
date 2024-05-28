@@ -5,7 +5,7 @@ permalink: /projects/
 description: Short documents usually come with a presentation and are below 50 pages. Long documents are rather notes from courses (> 100 pgs).
 nav: true
 nav_order: 2
-display_categories: [short, long, vintage]
+display_categories: [long, short, vintage]
 horizontal: false
 ---
 

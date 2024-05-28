@@ -1,7 +1,7 @@
 ---
 layout: page
 title: A view on Percolation and Spin Systems
-description: Lecture, Bocconi University, Aula4b
+description: Lecture, Bocconi University, May 2023
 img: assets/img/4_states_potts.png
 importance: 1
 category: short

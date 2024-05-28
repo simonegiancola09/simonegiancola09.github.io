@@ -3,8 +3,8 @@ layout: page
 title: Statistical Physics for Optimization and Learning course, Lecture Notes
 description: taught by Florent Krzakala, Lenka Zdeborová, 2021
 img: assets/img/cover_stat_phys.png
-importance: 1
-category: long
+importance: 2
+category: vintage
 ---
 
 To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/Stat_Phys_EPFL.pdf)\]

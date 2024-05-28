@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  A list of lists of interesting things 
+title:  A List of Lists of Interesting Things 
 date: 2023-07-23 21:01:00
 description: A database of interesting material to read, listen, watch, contemplate
 tags: informal list music podcasts books photography art

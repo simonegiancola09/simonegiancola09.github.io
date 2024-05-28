@@ -16,6 +16,26 @@ nav_order: 6
 <script>
   // Define your quotes as an array of objects directly within JavaScript.
   const quotesList = [
+{"Quote":"The first principle is that you must not fool yourself — and you are the easiest person to fool.",
+"Author":"Richard Feynman (1918-1988)",
+"Image": "https://en.wikipedia.org/wiki/File:Richard_Feynman_Nobel.jpg",
+   "Credit": "Wikipedia"
+},
+{"Quote":"A generating function is a clothesline on which we hang up a sequence of numbers for display.",
+"Author":"Herbert Saul Wilf (1931-2012)",
+"Image": "https://en.wikipedia.org/wiki/File:Herbert_Wilf.jpg",
+   "Credit": "Wikipedia"
+},
+{"Quote":"Physics is a dialectical learning process, it is not constructive.",
+"Author":"Daniel Schroeder [The Cartesian Cafe podcast]",
+"Image": "https://www.weber.edu/wsuimages/physics/faculty/Dan-Schroeder-3599-for-web.jpg",
+   "Credit": "Weber State University"
+},
+{"Quote":"I thought fit to write out for you and explain in detail in the same book the peculiarity of a certain method, by which it will be possible for you to get a start to enable you to investigate some of the problems in mathematics by means of mechanics. [. . . ] it is of course easier, when we have previously acquired, by the method, some knowledge of the questions, to supply the proof than it is to find it without any previous knowledge.",
+ "Author": "Archimedes [from The Method] 3rd Century BC",
+ "Image": "https://en.wikipedia.org/wiki/File:Domenico-Fetti_Archimedes_1620.jpg",
+   "Credit": "Wikipedia"
+},
     {
    "Quote": "The purpose of computing is insight, not numbers.",
    "Author": "Richard Hamming (1915 - 1998)",

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Message Passing and GLMs
-description: Master's Thesis, April 2024
+description: Master's Thesis, Apr 2024
 img: assets/img/thesis_cover.png
 importance: 1
 category: long
@@ -15,5 +15,5 @@ __A roadmap to Message Passing methods for inference on Mixed Generalized Linear
 
 ## Image credits
 DallE-2; see exact prompt in the doc. 
-### Abstract
+### Synopsis
 Chapter I is a review of inference, with an eye on what will be discussed in Chapter II, which discusses concepts that are shared with Statistical Physics. Belief Propagation, and Message Passing Algorithms in general are introduced in Chapter III, emphasizing on Approximate Message Passing in Chapter IV. The final Chapter V analyzes a recent adaptation of the techniques to estimating more than one signal. 

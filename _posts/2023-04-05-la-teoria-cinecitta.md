@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  (ITA) La teoria Cinecittà 
+title:  (ITA) La Teoria Cinecittà 
 date: 2023-04-05 21:01:00
 description: una lista aggiornata di film e il cardine del mio ideale di Italia
 tags: italian films informal list

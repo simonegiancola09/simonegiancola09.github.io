@@ -1,6 +1,6 @@
 ---
 layout: post
-title: When stuck in an airport
+title: When Stuck in an Airport
 date: 2024-04-12 21:01:00
 description: Acknowledgements, act II
 tags: life thoughts memories

@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Research Intern at [KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization! Previously, I was a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of [Bruno Loureiro](https://brloureiro.github.io/), exploring Stochastic Gradient Descent dynamics beyond the unstructured assumption. Last summer, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/), where I worked on Approximate Message Passing and Information Theoretic limits of a model of inference. 
+In the near past, I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization. Previously, I was a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of [Bruno Loureiro](https://brloureiro.github.io/), exploring Stochastic Gradient Descent dynamics beyond the unstructured assumption. Last year, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/), where I worked on Approximate Message Passing and Information Theoretic limits of a model of inference. 
 
 I graduated with an MS in Data Science at [Bocconi University](https://www.unibocconi.eu/wps/wcm/connect/bocconi/sitopubblico_en/navigation+tree/home/programs/master+of+science/data+science+and+business+analytics/). My supervisor was Prof. [Carlo Lucibello](https://carlolucibello.github.io/). Before my graduate studies, I completed a Bachelor in Economics and Computer Science.
 
@@ -32,10 +32,10 @@ I graduated with an MS in Data Science at [Bocconi University](https://www.unibo
 
 Check this [blog post](https://simonegiancola09.github.io/blog/2023/list-of-interesting-things/) if you want to know more about what I like out of research.
 
-The prompt I gave to Dall-E2 for the suprinsingly self resembling image was
+The prompt I gave to Dall-E2 for the surprinsingly self resembling image was
 >"Van Gogh style painting of an Italian boy in his 20s with a shirt and eyeglasses, brown curly hair, brown eyes"
 
-Perharps I am a ground state of some Open AI's ML pipeline...
+Perhaps I am a ground state of some Open AI's ML pipeline...
 
 
 <script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=qs39rMdrVTM_HJ76vd9onjL2aVddHeOSFVC41_w-BQg&co=81219b&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
