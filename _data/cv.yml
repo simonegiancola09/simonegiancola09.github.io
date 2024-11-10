@@ -14,12 +14,17 @@
 - title: Education
   type: time_table
   contents:
+    - title: M2 in Probability and Statistics, Mathematics of Randomness
+      institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
+      year: Sep 2024- Present
+      description:
+        - research masters
     - title: Master of Science in Data Science, Data Science major
       institution: Bocconi University, Milan, Italy
       year: Aug 2021- Apr 2024
       description:
-        - Grade 
-        - <b> GPA </b> 29/30, Final grade 110 cum Laude/ 110
+        - Grade 110 cum Laude/ 110
+        - <b> GPA </b> 29/30
         - Thesis "A roadmap to Message Passing methods for inference on Mixed Generalized Linear Models, with emphasis on Mixed Noiseless Phase Retrieval"
         - <b> Advisor </b> Prof. Carlo Lucibello
         - title: relevant coursework
@@ -40,6 +45,20 @@
         - Thesis “Value of Information in a Support Vector Machine, an exploration”
         - GPA 29.18 / 30 , <b> STEM GPA 30.14 / 30 </b>
         - Relevant coursework Advanced Statistical Methods, Applied Mathematics, Machine Learning
+
+- title: Publications
+  type: time_table
+  contents:
+  - title: "Local Curvature Descent: Squeezing More Curvature out of Standard and Polyak Gradient Descent"
+    year: May 2023
+    institution: Richtárik, Giancola, Lubczyk, Yadav
+    description: NeurIPS 2024 Workshop in Optimization
+
+- title: Service
+  type: list
+  contents:
+    - NeurIPS 2024 (reviewer)
+    - ICLR 2025 (reviewer)  
 
 - title: Experience
   type: time_table
@@ -74,7 +93,7 @@
         - Reading, self-study, writing
 
     - title: Data Science Intern
-      institution: Santagostino Clinic Milan, ITA
+      institution: Santagostino Clinic, Milan, ITA
       year: Jan 2022 - Mar 2022
 
     - title: Research Assistant
@@ -83,56 +102,9 @@
       description:
         - Advisor Prof. Emanuele Borgonovo
         - Value of Information, Support Vector Machines
-- title: Publications
-  type: time_table
-  contents:
-  - title: "Local Curvature Descent: Squeezing More Curvature out of Standard and Polyak Gradient Descent"
-    year: May 2023
-    institution: with Peter Richtárik, Dymitr Lubczyk and Robin Yadav
-    description: arXiv preprint
-
-- title: Portfolio and Talks
-  type: time_table
-  contents:
-    - title: Spot Topics for Inference and Statistical Physics
-      year: May 2023
-      description: Theoretical results in Statistical Physics, Information Theory, Statistics
-    - title: Compositional RBMs, a Birds Eye view 
-      year: Mar 2023
-      description: Restricted Boltzmann Machines, Statistical Physics, Unsupervised Learning
-    - title: A view on Percolation and Spin Systems
-      year: Mar 2023
-      description: Percolation, Potts Model, Spin Systems, Random Cluster Model
-    - title: Notes on the Neural Tangent Kernel 
-      year: Jan 2023
-      description: Deep Learning Theory, Neural Networks, Kernel Methods
-    - title: Notions in Optimal Transport for Sigmoid Neural Networks
-      year:  Jan 2023
-      description: Deep Learning Theory, Optimal Transport, Neural Networks
-    - title: Bipartite Matching & extensions 
-      year: Jun 2022
-      description: Linear Algebra, Graph Theory, Duality, Hungarian Algorithm, admissible transformation theory, Pfaffian orientations
-    - title: Advanced Session, Harvard mini-course on Computation
-      year: Jan 2022
-      description: Simulated Annealing, Statistical Mechanics, TSP
-- title: Other self study / extracurriculars
-  type: time_table
-  contents:
-    - title: Lectures on linearized Neural Networks
-      year: Summer 2023
-      description: Kernels, Ridge Regression, High Dimensional Probability
-    - title: Probability Theory 
-      year: Sep 2022 - Jan 2023
-      description: Measure Theory, Stochastic Processes
-    - title: Statistical Physics 
-      year: Jun 2022 - Ongoing
-      description: Machine Learning, Optimization, Physics, Neural Networks
-    - title: Geometric Deep Learning 
-      year: Jun 2022 - Dec 2022 
-      description: Group Theory, Statistical Learning, Neural Networks, Topology  
-    - title: Bayesian MCMC probit analysis | co-authored
-      year:  Dec 2021
-      description: Gibbs Instrumental Algorithm, Metropolis Random Walk Algorithm
+    - title: Summer Technology Analyst
+      institution: Barclays Bank PLC, Radbroke, UK
+      year: Jun 2020 - Aug 2020
 - title: Academic Interests in Keywords
   type: list
   contents:
@@ -145,6 +117,7 @@
     - <b> Advanced </b> Python, Latex, Sklearn, Numpy, Matplotlib, Scipy;
     - <b> Certifications </b> Deep Learning and AI for Medicine by DeepLearning.AI;
     - <b> Intermediate </b> Julia, Git, Unix, R, SQL, Matlab, C++, Keras, Tensorflow
+
 - title: Awards
   type: list
   contents:

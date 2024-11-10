@@ -5,8 +5,18 @@ date: 2023-07-23 21:01:00
 description: A database of interesting material to read, listen, watch, contemplate
 tags: informal list music podcasts books photography art
 categories: nontheory
+featured: true
 ---
-Below is a list of things that I enjoyed throughout the years, as the memory comes and goes I will update it. Feel free to give me recommendations based on what you read!
+A list of things that I enjoyed throughout the years.
+
+
+**Books**
+
+I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simone-maria), you can check all my readings there!
+
+**Cool Links**
+- [Prison Mathematics Project](https://www.prisonmathproject.org/)
+- [Math with bad drawings](https://mathwithbaddrawings.com/)
 
 **Sculptors**
 - Jago
@@ -89,6 +99,9 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Meteora, Linkin Park, 2003
 - Low-Life, New Order, 1985
 - Substance, New Order, 1987
+- La voglia la pazzia l'incoscienza l'allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976
+- Relax, Calcutta, 2023
+
 
 **Podcasts**
 - 24 mattino, Radio 24
@@ -111,6 +124,16 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Il dito di Dio; Pablo Trincia
 - A domani; Nicolò Agliardi
 - Questo è Messina Denaro; Antonio Iovane, Lirio Abbate
+- Il mostro di Firenze, la via dell'acqua; Luca Ward
+- Benno - L'Oscurità su Bolzano; Lapo de Carlo, Noemi Zago, Stefano Dargenio
+- Come una marea - Il caso Franco Mastrogiovanni; Francesca Zanni, Enrico Bergianti
+- Sangue Loro, il ragazzo mandato a uccidere; Pablo Trincia
+- Le ombre di via Poma; Giacomo Galanti
+- Metanolo; Will media, Boats sound
+- Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti
+- E poi il silenzio; Pablo Trincia
+- Almeno credo; Carlo De Ruggieri
+
 
 
 **Poets**
@@ -119,33 +142,11 @@ Below is a list of things that I enjoyed throughout the years, as the memory com
 - Franco Arminio
 - Pablo Neruda
 
-**Books**
-- Cent’anni di solitudine — Gabriel Garcia Marquez
-- Il mondo nuovo — Aldous Huxley
-- Il piacere — Gabriele D’Annunzio
-- La scopa del sistema — David Foster Wallace
-- Considera L’aragosta — David Foster Wallace
-- Cristo si è fermato a Eboli — Carlo Levi
-- Una questione privata — Beppe Fenoglio
-- I malavoglia — Giovanni Verga
-- La simmetria dei Desideri — Eshkol Nevo
-- La coscienza di Zeno — Italo Svevo
-- Il giardino dei Finzi Contini — Giorgio Bassani
-- La luna e i falò — Cesare Pavese
-- Ragazzi di vita — Pier Paolo Pasolini
-- Scritti corsari — Pier Paolo Pasolini
-- Sette brevi lezioni di Fisica — Carlo Rovelli
-- 1984 — George Orwell
-- L’uomo che scambiò sua moglie per un Cappello — Oliver Sachs
-- Uno nessuno Centomila — Luigi Pirandello
-- Una stanza piena di gente — Daniel Keyes
-- Touching from a distance — Deborah Curtis
-- How to solve it, George Pólya
-- L'isola di Arturo, Elsa Morante
 
 **Youtube Channels**
 - Soft White Underbelly, Mark Laita
 - The Pillow
+- The Happiness Project
 
 
 

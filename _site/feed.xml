@@ -1,13 +1,20 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-05-28T11:10:48+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>MS Data Science @Bocconi
-</subtitle><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research. There are websites, packages, and a doc I wrote down to summarize many useful tips about writing research works, which made me recently realize that most of my older documents are wrong 😕. Whatever, now I know, we are made for mistakes.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-11-10T21:07:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>MS Data Science @Bocconi
+</subtitle><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research.</p>
 
-<p>I am also adding my new LaTeX template. It is basically a personalization of a very standard one, included below. Any suggestion is welcome!</p>
+<!-- There are websites, packages, and a doc I wrote down to summarize many useful tips about writing research works, which made me recently realize that most of my older documents are wrong 😕. Whatever, now I know, we are made for mistakes.  -->
+
+<!-- I am also adding my new LaTeX template. It is basically a personalization of a very standard one, included below. -->
+
+<p>Any suggestion is welcome!</p>
 
 <ul>
   <li><a href="https://www.zotero.org/">Zotero</a> and its Chrome extension;</li>
+  <li><a href="https://obsidian.md/">Obsidian</a> as main platform;</li>
+  <li><a href="https://apps.ankiweb.net/">Anki</a> for spaced repetition memory;</li>
   <li><a href="https://www.scholar-inbox.com/">Scholar inbox</a>;</li>
   <li><a href="https://arxivist.com/">ArXivist</a>;</li>
   <li><a href="https://github.com/google-research/arxiv-latex-cleaner">arxiv-latex-cleaner</a> package;</li>
+  <li><a href="https://notebooklm.google/">NotebookLM</a> now very simple but hoepfully will get better;</li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex">LTeX</a> extension for VSCode</li>
   <li>the <a href="https://www.miede.de/">Classic Thesis</a> LaTeX template;</li>
   <li>my personal adaptation on <a href="https://www.overleaf.com/read/gtpgcvpfyqkx#c8fbbf">Overleaf</a> or <a href="https://github.com/simonegiancola09/adapted_classic_thesis/tree/main">GitHub</a>;</li>
@@ -97,7 +104,17 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 
 <p>Thank you IST, Thank you to the organizers of the internship. Thank you Marco, you have been a great supervisor, and your topics of research are very cool. Thank you to the whole group for being nice, for hosting me and teaching me every day something new. I will do my best to see you again sometime somewhere.</p>
 
-<p>To anyone reading this, if you have the opportunity to spend some time in Wien or do research at IST, please go!</p>]]></content><author><name></name></author><category term="nontheory" /><category term="research" /><category term="life" /><category term="europe" /><category term="opinions" /><summary type="html"><![CDATA[A Wrap-up of my Three Months in Austria]]></summary></entry><entry><title type="html">A List of Lists of Interesting Things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A List of Lists of Interesting Things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>Below is a list of things that I enjoyed throughout the years, as the memory comes and goes I will update it. Feel free to give me recommendations based on what you read!</p>
+<p>To anyone reading this, if you have the opportunity to spend some time in Wien or do research at IST, please go!</p>]]></content><author><name></name></author><category term="nontheory" /><category term="research" /><category term="life" /><category term="europe" /><category term="opinions" /><summary type="html"><![CDATA[A Wrap-up of my Three Months in Austria]]></summary></entry><entry><title type="html">A List of Lists of Interesting Things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A List of Lists of Interesting Things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>A list of things that I enjoyed throughout the years.</p>
+
+<p><strong>Books</strong></p>
+
+<p>I have a <a href="https://www.goodreads.com/user/show/180790738-simone-maria">goodreads account</a>, you can check all my readings there!</p>
+
+<p><strong>Cool Links</strong></p>
+<ul>
+  <li><a href="https://www.prisonmathproject.org/">Prison Mathematics Project</a></li>
+  <li><a href="https://mathwithbaddrawings.com/">Math with bad drawings</a></li>
+</ul>
 
 <p><strong>Sculptors</strong></p>
 <ul>
@@ -187,6 +204,8 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Meteora, Linkin Park, 2003</li>
   <li>Low-Life, New Order, 1985</li>
   <li>Substance, New Order, 1987</li>
+  <li>La voglia la pazzia l’incoscienza l’allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976</li>
+  <li>Relax, Calcutta, 2023</li>
 </ul>
 
 <p><strong>Podcasts</strong></p>
@@ -211,6 +230,15 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Il dito di Dio; Pablo Trincia</li>
   <li>A domani; Nicolò Agliardi</li>
   <li>Questo è Messina Denaro; Antonio Iovane, Lirio Abbate</li>
+  <li>Il mostro di Firenze, la via dell’acqua; Luca Ward</li>
+  <li>Benno - L’Oscurità su Bolzano; Lapo de Carlo, Noemi Zago, Stefano Dargenio</li>
+  <li>Come una marea - Il caso Franco Mastrogiovanni; Francesca Zanni, Enrico Bergianti</li>
+  <li>Sangue Loro, il ragazzo mandato a uccidere; Pablo Trincia</li>
+  <li>Le ombre di via Poma; Giacomo Galanti</li>
+  <li>Metanolo; Will media, Boats sound</li>
+  <li>Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti</li>
+  <li>E poi il silenzio; Pablo Trincia</li>
+  <li>Almeno credo; Carlo De Ruggieri</li>
 </ul>
 
 <p><strong>Poets</strong></p>
@@ -221,36 +249,11 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Pablo Neruda</li>
 </ul>
 
-<p><strong>Books</strong></p>
-<ul>
-  <li>Cent’anni di solitudine — Gabriel Garcia Marquez</li>
-  <li>Il mondo nuovo — Aldous Huxley</li>
-  <li>Il piacere — Gabriele D’Annunzio</li>
-  <li>La scopa del sistema — David Foster Wallace</li>
-  <li>Considera L’aragosta — David Foster Wallace</li>
-  <li>Cristo si è fermato a Eboli — Carlo Levi</li>
-  <li>Una questione privata — Beppe Fenoglio</li>
-  <li>I malavoglia — Giovanni Verga</li>
-  <li>La simmetria dei Desideri — Eshkol Nevo</li>
-  <li>La coscienza di Zeno — Italo Svevo</li>
-  <li>Il giardino dei Finzi Contini — Giorgio Bassani</li>
-  <li>La luna e i falò — Cesare Pavese</li>
-  <li>Ragazzi di vita — Pier Paolo Pasolini</li>
-  <li>Scritti corsari — Pier Paolo Pasolini</li>
-  <li>Sette brevi lezioni di Fisica — Carlo Rovelli</li>
-  <li>1984 — George Orwell</li>
-  <li>L’uomo che scambiò sua moglie per un Cappello — Oliver Sachs</li>
-  <li>Uno nessuno Centomila — Luigi Pirandello</li>
-  <li>Una stanza piena di gente — Daniel Keyes</li>
-  <li>Touching from a distance — Deborah Curtis</li>
-  <li>How to solve it, George Pólya</li>
-  <li>L’isola di Arturo, Elsa Morante</li>
-</ul>
-
 <p><strong>Youtube Channels</strong></p>
 <ul>
   <li>Soft White Underbelly, Mark Laita</li>
   <li>The Pillow</li>
+  <li>The Happiness Project</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><category term="photography" /><category term="art" /><summary type="html"><![CDATA[A database of interesting material to read, listen, watch, contemplate]]></summary></entry><entry><title type="html">(ITA) La Teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La Teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
 
 <p>In fin dei conti, stiamo confrontando inquinamento stress e tempo a dire poco penoso con bellezza, apoteosi della dolce vita e quieto vivere. Una prova tangibile di questo fatto è la stessa ambientazione di buona parte dei film italiani, di cui sono particolarmente appassionato. Raramente (per quanto riguarda quelli che apprezzo, mai) l’ambientazione, immaginaria o dichiarata che sia, ricorda quella del capoluogo lombardo. Nella maggior parte dei casi risulta invece essere uno spaccato di vita di cittadini della capitale.</p>

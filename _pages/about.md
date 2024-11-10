@@ -9,14 +9,15 @@ profile:
   image: profile_picture.png
   image_circular: false # crops the image to make it circular
   address: >
-    <p>3113-WS03, Bldg 12, 4700 KAUST</p>
-    <p> Thuwal 23955-6900, Saudi Arabia</p>
+    <p>Paris, France;</p>
+    <p>currently no institutional address</p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
+I am a student at the research [M2 in Probability and Statistics](https://www.imo.universite-paris-saclay.fr/fr/etudiants/masters/mathematiques-et-applications/m2/probabilites-et-statistiques/) Institut de Mathématique d’Orsay, [Paris-Saclay University](https://www.universite-paris-saclay.fr/en/). I am actively looking for a Doctoral position. 
 
 In the near past, I was a Research Intern @[KAUST](https://www.kaust.edu.sa/) in Prof. [Richtárik](https://richtarik.org/)'s group, focusing on Optimization. Previously, I was a Research Intern @[ENS Paris](https://www.ens.psl.eu/en) under the supervision of [Bruno Loureiro](https://brloureiro.github.io/), exploring Stochastic Gradient Descent dynamics beyond the unstructured assumption. Last year, I was a Research Intern @[IST Austria](https://ist.ac.at/home) under the supervision of Prof. [Marco Mondelli](http://marcomondelli.com/), where I worked on Approximate Message Passing and Information Theoretic limits of a model of inference. 
 

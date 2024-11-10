@@ -2,7 +2,7 @@
 layout: page
 title: Spot Topics for Inference and Statistical Physics
 description: A collection of often ignored results, May 2024
-img: assets/img/spot_topics_cover.png
+img: assets/img/spot_topics.png
 importance: 1
 category: long
 ---
