@@ -33,11 +33,16 @@ bundle exec jekyll serve
 Copy server address and paste into browser
 Check change
 Once finished commit
+once finished, before deploying: 
+- push to master in a new terminal, 
+- clone again the project from master,
+- then do the same commands until you are just before calling bundle exec
+- now call deploy. this time you do not push! 
 Call
 ```
 git add .
 git commit -m "message"
 bin/deploy —user 
 ```
-Proceed
+Now the master will have the right version. 
 

@@ -4,7 +4,7 @@ title: Probability Theory Hybrid Notes
 description: A big theoretical course. Jan 2023
 img: assets/img/stochastic_process.jpeg
 importance: 2
-category: long
+category: archive
 ---
 
 To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/stoch_proc_notes.pdf)\]

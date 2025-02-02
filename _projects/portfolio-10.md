@@ -4,7 +4,7 @@ title: A view on Percolation and Spin Systems
 description: Lecture, Bocconi University, May 2023
 img: assets/img/4_states_potts.png
 importance: 1
-category: short
+category: archive
 ---
 
 Exposition on the whiteboard, but the lecture notes I wrote up are at this link \[[PDF](https://simonegiancola09.github.io/assets/pdf/percolation_lecture.pdf)\]. 

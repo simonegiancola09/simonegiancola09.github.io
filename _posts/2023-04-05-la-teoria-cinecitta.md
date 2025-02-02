@@ -42,9 +42,15 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Ricordati di me
 - La Prima Cosa Bella
 
+**Ferzan Özpetek**
+- Saturno Contro
+- Diamanti
+
+
 **Paolo Sorrentino**
-- La grande Bellezza
-- È stata la mano di dio
+- La Grande Bellezza
+- Il Divo, Paolo Sorrentino
+
 
 **Edoardo Leo**
 - Era ora
@@ -56,6 +62,7 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 **Riccardo Scamarcio**
 - Io che amo solo te
 - Lo Spietato
+
 
 **Misti**
 - Lasciarsi un giorno a Roma
@@ -69,3 +76,9 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 **Menzione D'onore**, per i film italiani di successo ma non ambientati propriamente in Italia. 
 - Mediterraneo (Abatantuono, Bisio)
 - La vita è Bella (Benigni)
+- È stata la mano di Dio (Sorrentino)
+- This Must be The Place (Paolo Sorrentino)
+- Le Conseguenze dell’Amore (Paolo Sorrentino)
+- L’Amico di Famiglia (Paolo Sorrentino)
+- Amore Tossico (Claudio Caligari)
+

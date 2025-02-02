@@ -4,7 +4,7 @@ title: Five Lectures on Nonparametric Neural Networks
 description: Lecture Notes, Sep 2023
 img: assets/img/manifold_ball.png
 importance: 1
-category: short
+category: archive
 ---
 To access the document, please click \[[PDF](https://simonegiancola09.github.io/assets/pdf/Lectures_Les_Houches_Montanari.pdf)\] 
 <br/>

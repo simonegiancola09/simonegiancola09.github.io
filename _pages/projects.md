@@ -2,10 +2,10 @@
 layout: page
 title: writings
 permalink: /projects/
-description: Short documents usually come with a presentation and are below 50 pages. Long documents are rather notes from courses (> 100 pgs).
+description: Many typos. Long ones are tidier. Expository are from coursework/self-study. A dozen are archived. 
 nav: true
 nav_order: 2
-display_categories: [long, short, vintage]
+display_categories: [long, expository]
 horizontal: false
 ---
 

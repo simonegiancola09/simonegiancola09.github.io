@@ -24,6 +24,8 @@ Any suggestion is welcome!
 - [arxiv-latex-cleaner](https://github.com/google-research/arxiv-latex-cleaner) package;
 - [NotebookLM](https://notebooklm.google/) now very simple but hoepfully will get better;
 - [LTeX](https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex) extension for VSCode
+- [IPE](https://ipe.otfried.org/) for images;
+- [AlphaXiv](https://www.alphaxiv.org/explore) for famous papers;
 - the [Classic Thesis](https://www.miede.de/) LaTeX template;
 - my personal adaptation on [Overleaf](https://www.overleaf.com/read/gtpgcvpfyqkx#c8fbbf) or [GitHub](https://github.com/simonegiancola09/adapted_classic_thesis/tree/main);
 - a [doc](http://simonegiancola09.github.io/assets/pdf/writing_a_paper.pdf) summarizing in bullet points how to write a paper from the references therein. 

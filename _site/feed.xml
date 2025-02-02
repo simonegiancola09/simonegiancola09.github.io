@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2024-11-10T21:07:59+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>MS Data Science @Bocconi
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-02-02T17:18:38+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Giancola’s webpage</title><subtitle>MS Data Science @Bocconi
 </subtitle><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research.</p>
 
 <!-- There are websites, packages, and a doc I wrote down to summarize many useful tips about writing research works, which made me recently realize that most of my older documents are wrong 😕. Whatever, now I know, we are made for mistakes.  -->
@@ -16,6 +16,8 @@
   <li><a href="https://github.com/google-research/arxiv-latex-cleaner">arxiv-latex-cleaner</a> package;</li>
   <li><a href="https://notebooklm.google/">NotebookLM</a> now very simple but hoepfully will get better;</li>
   <li><a href="https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex">LTeX</a> extension for VSCode</li>
+  <li><a href="https://ipe.otfried.org/">IPE</a> for images;</li>
+  <li><a href="https://www.alphaxiv.org/explore">AlphaXiv</a> for famous papers;</li>
   <li>the <a href="https://www.miede.de/">Classic Thesis</a> LaTeX template;</li>
   <li>my personal adaptation on <a href="https://www.overleaf.com/read/gtpgcvpfyqkx#c8fbbf">Overleaf</a> or <a href="https://github.com/simonegiancola09/adapted_classic_thesis/tree/main">GitHub</a>;</li>
   <li>a <a href="http://simonegiancola09.github.io/assets/pdf/writing_a_paper.pdf">doc</a> summarizing in bullet points how to write a paper from the references therein.</li>
@@ -114,6 +116,10 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 <ul>
   <li><a href="https://www.prisonmathproject.org/">Prison Mathematics Project</a></li>
   <li><a href="https://mathwithbaddrawings.com/">Math with bad drawings</a></li>
+  <li><a href="https://www.antigone.it/">Antigone</a></li>
+  <li><a href="https://www.associazionelucacoscioni.it">Associazione Luca Coscioni</a></li>
+  <li><a href="https://ristretti.org/">Ristretti Orizzonti</a></li>
+  <li><a href="https://www.sistemapenale.it/">Sistema Penale</a></li>
 </ul>
 
 <p><strong>Sculptors</strong></p>
@@ -239,6 +245,26 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti</li>
   <li>E poi il silenzio; Pablo Trincia</li>
   <li>Almeno credo; Carlo De Ruggieri</li>
+  <li>Innocente, la storia di Beniamino Zuncheddu; Nicoletta Cottone</li>
+  <li>Amnesia (stagione 1); Matteo Caccia</li>
+  <li>Borghesia Violenta;  Emons Record e Gog Edizioni</li>
+  <li>Gianni; Caroline Baglioni e Michelangelo Bellani</li>
+  <li>Entangled Ideas; Alice &amp; Bob</li>
+  <li>Spazio Penombre; unknown</li>
+  <li>Sky Crime; various</li>
+  <li>Il Buco - pionieri dell’eroina; Masiar Pasquali</li>
+  <li>Merce di Scambio; Teresa potenza</li>
+  <li>Scandali; BOATS sound</li>
+  <li>Mattanza; Giuseppe Pipitone &amp; Marco Colombo</li>
+</ul>
+
+<p><strong>Documentaries</strong></p>
+<ul>
+  <li>D’amore si vive; Silvano Agosti</li>
+  <li>Processo per Stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini</li>
+  <li>Sciuscià ‘80; Giuseppe Marrazzo</li>
+  <li>L’ultima intervista a Pier Paolo Pasolini, 31 Ottobre 1975; Youtube</li>
+  <li>Funeralopolis - A Suburban Portrait; Alessandro Redaelli</li>
 </ul>
 
 <p><strong>Poets</strong></p>
@@ -251,7 +277,7 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 
 <p><strong>Youtube Channels</strong></p>
 <ul>
-  <li>Soft White Underbelly, Mark Laita</li>
+  <li>Soft White Underbelly; Mark Laita</li>
   <li>The Pillow</li>
   <li>The Happiness Project</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="informal" /><category term="list" /><category term="music" /><category term="podcasts" /><category term="books" /><category term="photography" /><category term="art" /><summary type="html"><![CDATA[A database of interesting material to read, listen, watch, contemplate]]></summary></entry><entry><title type="html">(ITA) La Teoria Cinecittà</title><link href="http://localhost:4000/blog/2023/la-teoria-cinecitta/" rel="alternate" type="text/html" title="(ITA) La Teoria Cinecittà" /><published>2023-04-05T23:01:00+02:00</published><updated>2023-04-05T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/la-teoria-cinecitta</id><content type="html" xml:base="http://localhost:4000/blog/2023/la-teoria-cinecitta/"><![CDATA[<p>Roma ha sempre avuto un forte significato nella storia di chiunque sia nato in Italia. Senza differenze, lo ha anche nel mio caso. La trovo una città molto a misura di persona, nonostante le forti critiche che subisce. Al contrario, non sono convinto che una vita passata a Milano sia effettivamente desiderabile, anche per la mente più particolare.</p>
@@ -295,10 +321,16 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>La Prima Cosa Bella</li>
 </ul>
 
+<p><strong>Ferzan Özpetek</strong></p>
+<ul>
+  <li>Saturno Contro</li>
+  <li>Diamanti</li>
+</ul>
+
 <p><strong>Paolo Sorrentino</strong></p>
 <ul>
-  <li>La grande Bellezza</li>
-  <li>È stata la mano di dio</li>
+  <li>La Grande Bellezza</li>
+  <li>Il Divo, Paolo Sorrentino</li>
 </ul>
 
 <p><strong>Edoardo Leo</strong></p>
@@ -333,6 +365,11 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 <ul>
   <li>Mediterraneo (Abatantuono, Bisio)</li>
   <li>La vita è Bella (Benigni)</li>
+  <li>È stata la mano di Dio (Sorrentino)</li>
+  <li>This Must be The Place (Paolo Sorrentino)</li>
+  <li>Le Conseguenze dell’Amore (Paolo Sorrentino)</li>
+  <li>L’Amico di Famiglia (Paolo Sorrentino)</li>
+  <li>Amore Tossico (Claudio Caligari)</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="italian" /><category term="films" /><category term="informal" /><category term="list" /><summary type="html"><![CDATA[una lista aggiornata di film e il cardine del mio ideale di Italia]]></summary></entry><entry><title type="html">On the Importance of Having a Mission</title><link href="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/" rel="alternate" type="text/html" title="On the Importance of Having a Mission" /><published>2023-04-04T23:01:00+02:00</published><updated>2023-04-04T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission</id><content type="html" xml:base="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/"><![CDATA[<p>The following is a confusing and very raw discussion about one of the most foundational aspects of my everyday life. In parallel, I will comment on
 the last 12 months, since they have been the clearest example of <em>the importance of having a Mission</em>. Despite being 100% sure that I
 am not a person able to give advice, you might pick up something in the end.</p>

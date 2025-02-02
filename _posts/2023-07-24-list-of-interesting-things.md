@@ -17,6 +17,11 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 **Cool Links**
 - [Prison Mathematics Project](https://www.prisonmathproject.org/)
 - [Math with bad drawings](https://mathwithbaddrawings.com/)
+- [Antigone](https://www.antigone.it/)
+- [Associazione Luca Coscioni](https://www.associazionelucacoscioni.it)
+- [Ristretti Orizzonti](https://ristretti.org/)
+- [Sistema Penale](https://www.sistemapenale.it/)
+
 
 **Sculptors**
 - Jago
@@ -133,6 +138,26 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 - Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti
 - E poi il silenzio; Pablo Trincia
 - Almeno credo; Carlo De Ruggieri
+- Innocente, la storia di Beniamino Zuncheddu; Nicoletta Cottone
+- Amnesia (stagione 1); Matteo Caccia
+- Borghesia Violenta;  Emons Record e Gog Edizioni
+- Gianni; Caroline Baglioni e Michelangelo Bellani
+- Entangled Ideas; Alice & Bob
+- Spazio Penombre; unknown
+- Sky Crime; various
+- Il Buco - pionieri dell’eroina; Masiar Pasquali
+- Merce di Scambio; Teresa potenza
+- Scandali; BOATS sound
+- Mattanza; Giuseppe Pipitone & Marco Colombo
+
+
+**Documentaries**
+- D’amore si vive; Silvano Agosti
+- Processo per Stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini 
+- Sciuscià ‘80; Giuseppe Marrazzo
+- L'ultima intervista a Pier Paolo Pasolini, 31 Ottobre 1975; Youtube
+- Funeralopolis - A Suburban Portrait; Alessandro Redaelli 
+
 
 
 
@@ -144,7 +169,7 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 
 
 **Youtube Channels**
-- Soft White Underbelly, Mark Laita
+- Soft White Underbelly; Mark Laita
 - The Pillow
 - The Happiness Project
 

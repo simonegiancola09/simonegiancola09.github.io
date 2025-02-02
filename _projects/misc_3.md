@@ -4,7 +4,7 @@ title: Geometric Deep Learning course, Lecture Notes
 description: taught by Michael M. Bronstein, Joan Bruna, Taco Cohen, Petar Veličković, July 2022
 img: assets/img/CORA_dataset.png
 importance: 2
-category: vintage
+category: archive
 ---
 
 To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/GDL_lecture_notes.pdf)\]

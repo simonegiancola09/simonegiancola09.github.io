@@ -4,7 +4,7 @@ title: Notes on the Neural Tangent Kernel
 description: A beginners’ guide. Jan 2023
 img: assets/img/fox.png
 importance: 1
-category: short
+category: archived
 ---
 
 To access the document, please click \[[PDF](https://simonegiancola09.github.io/assets/pdf/machine_learning_II_report.pdf)\]

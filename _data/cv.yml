@@ -10,7 +10,7 @@
     - name: summary
       value: Research intern. Passionate about using theoretical methodologies to solve real world problems. 
     - name: Languages
-      value: English (proficient), Italian (mothertongue), Spanish (basic)
+      value: English (proficient), Italian (mothertongue), French (Intermediate), Spanish (basic)
 - title: Education
   type: time_table
   contents:
@@ -29,7 +29,7 @@
         - <b> Advisor </b> Prof. Carlo Lucibello
         - title: relevant coursework
           contents:
-            - <b> Ph.D. </b> Real Analysis (Optimal Transport), Graph Theory, Statistical Physics
+            - <b> Ph.D. coursework</b> Real Analysis (Optimal Transport), Graph Theory, Statistical Physics
             - Advanced Machine Learning, Optimization, Stochastic Processes
     - title: Undergraduate Exchange Program
       institution: Arizona State University, Tempe, AZ, USA

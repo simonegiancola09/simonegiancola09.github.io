@@ -16,6 +16,11 @@ nav_order: 6
 <script>
   // Define your quotes as an array of objects directly within JavaScript.
   const quotesList = [
+    {"Quote":"Progress is not achieved by luck or accident, but by working on yourself daily.",
+"Author":"Epictetus, I sec. AC",
+"Image": "https://en.wikipedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece.jpg",
+   "Credit": "Wikipedia"
+},
     {"Quote":"Dubium sapientiae initium",
 "Author":"René Descartes (1596-1650)",
 "Image": "https://it.wikipedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
