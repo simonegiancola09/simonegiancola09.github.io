@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-super happy to share that I am a Research Intern at the Institute of Science and Technology Austria ([ISTA](https://ista.ac.at/de/home/)). I will be in Prof. [Marco Mondelli](http://marcomondelli.com/)'s group and work on Statistical to Computational Gaps, Information Theory, Algorithms and Message Passing!
+super happy to share that I am a research intern at the Institute of Science and Technology Austria ([ISTA](https://ista.ac.at/de/home/)). I will be in prof. [Marco Mondelli](http://marcomondelli.com/)'s group and work on statistical to computational gaps, information theory, algorithms and message passing!

@@ -2,17 +2,17 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Simone Giancola's webpage # the website title (if blank, full name will be used instead)
-first_name: Simone
-middle_name: Maria
+title: Simone Maria Giancola's webpage # the website title (if blank, full name will be used instead)
+first_name: Simone Maria
+middle_name:
 last_name: Giancola
 email: simonegiancola09@gmail.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  MS Data Science @Bocconi
+  M2 mathematics of randomness @Orsay
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
-keywords: Machine Learning, Statistical Physics, High-Dimensional Statistics, Neural Networks  # add your own keywords or leave empty
+keywords: Machine Learning, Statistical Physics, High-Dimensional Statistics  # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🐢   # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
@@ -120,7 +120,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # Blog
 # -----------------------------------------------------------------------------
 
-blog_name: Informal Typos # blog_name will be displayed in your blog page
+blog_name: informal typos # blog_name will be displayed in your blog page
 blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: A repository of impressions and miswritings
 permalink: /blog/:year/:title/

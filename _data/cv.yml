@@ -1,25 +1,26 @@
 - title: General Info
   type: map
   contents:
-    - name: Full Name
+    - name: full name
       value: Simone Maria Giancola
-    - name: Date of Birth
+    - name: date of birth
       value: 6th September 1999
     - name: email
       value: simonegiancola09 dot gmail dot com
     - name: summary
-      value: Research intern. Passionate about using theoretical methodologies to solve real world problems. 
-    - name: Languages
+      value: Researcher. Passionate about using theoretical methodologies to solve real world problems. 
+    - name: languages
       value: English (proficient), Italian (mothertongue), French (Intermediate), Spanish (basic)
 - title: Education
   type: time_table
   contents:
-    - title: M2 in Probability and Statistics, Mathematics of Randomness
+    - title: M2 in probability and statistics, mathematics of randomness (MDA)
       institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
       year: Sep 2024- Present
       description:
-        - research masters
-    - title: Master of Science in Data Science, Data Science major
+        - research master's
+        - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
+    - title: Master of science in data science, data science major
       institution: Bocconi University, Milan, Italy
       year: Aug 2021- Apr 2024
       description:
@@ -29,22 +30,22 @@
         - <b> Advisor </b> Prof. Carlo Lucibello
         - title: relevant coursework
           contents:
-            - <b> Ph.D. coursework</b> Real Analysis (Optimal Transport), Graph Theory, Statistical Physics
-            - Advanced Machine Learning, Optimization, Stochastic Processes
-    - title: Undergraduate Exchange Program
+            - <b> Ph.D. coursework</b> real analysis (optimal transport), graph theory, statistical physics
+            - advanced machine learning, optimization, stochastic processes
+    - title: Undergraduate exchange program
       institution: Arizona State University, Tempe, AZ, USA
       year: Jan 2021 - May 2021
       description:
         - GPA 4.17/4.00
-        - <b> Graduate relevant coursework</b> Quantum Computation, Modeling with Game Theory
-    - title: Bachelor of Science in Economics and Computer Science
+        - <b> Graduate relevant coursework:</b> quantum computation, modeling with game theory
+    - title: Bachelor of science in economics and computer science
       institution: Bocconi University, Milan, Italy
       year: Aug 2018- Jul 2021
       description:
         - Grade 110 Cum Laude / 110
         - Thesis “Value of Information in a Support Vector Machine, an exploration”
         - GPA 29.18 / 30 , <b> STEM GPA 30.14 / 30 </b>
-        - Relevant coursework Advanced Statistical Methods, Applied Mathematics, Machine Learning
+        - <b> Relevant coursework:</b> advanced statistical methods, applied mathematics, machine learning
 
 - title: Publications
   type: time_table
@@ -63,54 +64,60 @@
 - title: Experience
   type: time_table
   contents:
-    - title: Research Intern
+    - title: Research intern
+      institution: Institut de Mathématique d'Orsay (LMO), Paris, FRA
+      year: Apr 2024 - present
+      description:
+        - <b>Advisors:</b> Prof. Christophe Giraud, DR Nicolas Verzelen
+        - Statistical to computational gaps, inference, hypothesis testing
+  
+    - title: Research intern
       institution: King Abdullah University of Science and Technology (KAUST), KSA
       year: Feb 2024 - May 2024
       description:
         - <b>Advisor:</b> Prof. Peter Richtárik
-        - Convex Optimization, Conditioned Gradient Descent methods
+        - Convex optimization, conditioned gradient descent methods
   
-    - title: Research Intern
-      institution: Ecole Normale Superieure (ENS), Paris, FRA
+    - title: Research intern
+      institution: École Normale Supérieure (ENS), Paris, FRA
       year: Oct 2023 - Dec 2023
       description:
         - <b>Advisor:</b> Bruno Loureiro
-        - Theory of Neural Networks, Stochastic Gradient Descent
+        - Theory of neural networks, stochastic gradient descent
   
-    - title: Research Intern
+    - title: Research intern
       institution: Institute of Science and Technology Austria (ISTA) Wien, AUT
       year: Jun 2023 - Aug 2023
       description:
         - <b>Advisor:</b> Prof. Marco Mondelli
-        - Statistical to Computational Gaps, Information Theory, Algorithms, Message Passing
-        - ISTernship Summer Programme, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
+        - Statistical to computational gaps, information theory, algorithms, message passing
+        - ISTernship summer programme, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
     
-    - title: Visiting Student
+    - title: Visiting student
       institution: Bocconi Institute for Data Science, Milan, ITA
       year: Mar 2022 - Jun 2023
       description:
-        - Advisors Prof. Carlo Lucibello and Prof. Luca Saglietti, Computing Sciences Department
+        - Advisors Prof. Carlo Lucibello and Prof. Luca Saglietti, computing sciences department
         - Reading, self-study, writing
 
-    - title: Data Science Intern
+    - title: Data science intern
       institution: Santagostino Clinic, Milan, ITA
       year: Jan 2022 - Mar 2022
 
-    - title: Research Assistant
+    - title: Research assistant
       institution: Bocconi University, Milan, ITA
       year: Jan 2021 - May 2021
       description:
         - Advisor Prof. Emanuele Borgonovo
-        - Value of Information, Support Vector Machines
-    - title: Summer Technology Analyst
+        - Value of information, support vector machines
+    - title: Summer technology analyst
       institution: Barclays Bank PLC, Radbroke, UK
       year: Jun 2020 - Aug 2020
-- title: Academic Interests in Keywords
+- title: Academic interests in keywords
   type: list
   contents:
-    - Mathematics, Statistics, Computer Science
-    - Information Theory, Statistical Physics, Machine Learning
-    - theoretical results, theory of learning, neural networks
+    - Mathematics, statistics, computer science
+    - Information theory, statistical physics, machine learning
 - title: Skills
   type: list
   contents:
@@ -121,9 +128,9 @@
 - title: Awards
   type: list
   contents:
-    - First Italian School in Geometric Deep Learning, Funded MS student.
-    - OeAD Scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
-    - Meritorious Award for volunteering during the COVID-19 Pandemic. Awarded by the Municipality of San Donato Milanese, Italy. 
+    - First italian school in geometric deep learning, funded MS student.
+    - OeAD scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
+    - Meritorious award for volunteering during the COVID-19 Pandemic. Awarded by the municipality of San Donato Milanese, Italy. 
 - title: Interests
   type: list
   contents:
