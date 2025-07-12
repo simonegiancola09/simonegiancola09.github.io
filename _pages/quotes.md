@@ -16,7 +16,22 @@ nav_order: 6
 <script>
   // Define your quotes as an array of objects directly within JavaScript.
   const quotesList = [
-    {"Quote":"Progress is not achieved by luck or accident, but by working on yourself daily.",
+    {"Quote":"Io sono un siciliano. La mia vita vale quanto il bottone di questa giacca.",
+"Author":"Giovanni Falcone (1939-1992)",
+"Image": "https://en.wikipedia.org/wiki/File:Giovanni_Falcone_2.jpg",
+   "Credit": "Wikipedia"
+},
+    {"Quote":"Despite their familiarity, phase transitions are striking, and even a little disconcerting. Usually in physics, things happens gradually. This fact is sewn into the heart of classical physics where the positions and momenta of particles are described by smooth, differentiable functions. Indeed, historically, the idea that change happens only infinitesimally resulted in the discovery of calculus. Yet, somehow, what holds on the micro level fails at the macro. Phase transitions tell us that a large number of particles can behave collectively in a way that any individual particle cannot, with the macroscopic properties of a system changing discontinuously.",
+"Author":"David Tong, in his course on statistical field theory",
+"Image": "https://www.damtp.cam.ac.uk/user/tong/bio/davidtong.jpg",
+   "Credit": "Cambridge website"
+},
+    {"Quote":"It is only slightly overstating the case to say that physics is the study of symmetry.",
+"Author":"Philip W. Anderson (1923-2020), in his famous More is different paper",
+"Image": "https://en.wikipedia.org/wiki/File:Andersonphoto.jpg",
+   "Credit": "Wikipedia"
+},
+{"Quote":"Progress is not achieved by luck or accident, but by working on yourself daily.",
 "Author":"Epictetus, I sec. AC",
 "Image": "https://en.wikipedia.org/wiki/File:Epicteti_Enchiridion_Latinis_versibus_adumbratum_(Oxford_1715)_frontispiece.jpg",
    "Credit": "Wikipedia"

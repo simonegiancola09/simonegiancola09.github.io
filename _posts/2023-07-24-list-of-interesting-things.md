@@ -7,105 +7,21 @@ tags: informal list music podcasts books photography art
 categories: nontheory
 featured: true
 ---
-A list of things that I enjoyed throughout the years.
+A list of things I like. 
 
 
 **Books**
 
 I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simone-maria), you can check all my readings there!
 
-**Cool Links**
+**Justice**
 - [Prison Mathematics Project](https://www.prisonmathproject.org/)
-- [Math with bad drawings](https://mathwithbaddrawings.com/)
 - [Antigone](https://www.antigone.it/)
 - [Associazione Luca Coscioni](https://www.associazionelucacoscioni.it)
+- [Nessuno tocchi Caino](https://www.nessunotocchicaino.it/)
 - [Ristretti Orizzonti](https://ristretti.org/)
 - [Sistema Penale](https://www.sistemapenale.it/)
 
-
-**Sculptors**
-- Jago
-- Daniel Arsham
-- Paolo Nicolai
-- Fabio Viale
-- Leo Caillard
-- Filippo Nicolini
-- Francesco Filiberto Tonnarelli
-- Federico Benedetti
-- Bruno Cesar Catalano
-- Massimiliano Pelletti
-
-**Photographers**
-- Merrick Morton
-- George Steinmetz
-- Michael Yamasita
-- Steve McCurry
-- Joel Sartore
-- Aaron Huey
-- Robin Hammond
-- Brent Stirton
-- Babak Tafreshi
-- Gabriele Galimberti
-- Pedro McBride
-- Marshall Cody
-- Shaaz Jung
-- Paul Nicklen
-- Sam Alexander Gregg
-- Michael Christopher Brown
-- Herbert van der Beek
-- Lenny J. Ruiz
-- Suitcase Joe
-- Sam Youkilis
-- Antonio Faccilongo
-- Alessandro Cinque
-- Michele Iacobini
-- Leandro Colantoni
-- Carmine Romano
-- Niall McDiarmind
-- Robbie McIntosh
-- Martin Schoeller
-- David Alan Harvey
-- Bonus for the Italians: the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth checking out. 
-
-**Contemporary Artists**
-- Alice Pasquini
-- Shawn Coss
-- Bordalo II
-- Sean Yoro
-- Iskander Utebayev
-- Butcher Billy
-- Guillermo Lorca Garcìa
-- Omar Hassan
-- Simone Bianchi
-- Alex Juice
-- Will Conrad
-- Refik Anadol
-- Filippo Giusti
-- Roberto Ferri
-- Maxim Zhestkov
-- Fabrizio Plessi
-- Sy Goldstein
-- Nathan Stockman
-- Flavio Solo
-
-**Music Albums**
-- Unknown Pleasures, Joy Division, 1979
-- Closer, Joy Division, 1980
-- Disintegration, The Cure, 1989
-- Violator, Depeche Mode, 1990
-- Lucio Dalla, Lucio Dalla, 1979
-- Dalla, Lucio Dalla, 1980
-- The Smiths, The Smiths, 1984
-- Everybody Else Is Doing It, So Why Can't We?, The Cranberries, 1993
-- No Need To Argue, The Cranberries, 1994
-- Recovery, Eminem, 2010
-- The Slim Shady LP, Eminem, 1999
-- One More Light, Linkin Park, 2017
-- Meteora, Linkin Park, 2003
-- Low-Life, New Order, 1985
-- Substance, New Order, 1987
-- La voglia la pazzia l'incoscienza l'allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976
-- Relax, Calcutta, 2023
 
 
 **Podcasts**
@@ -149,14 +65,56 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 - Merce di Scambio; Teresa potenza
 - Scandali; BOATS sound
 - Mattanza; Giuseppe Pipitone & Marco Colombo
+- Tintoria; Daniele Tinti, Stefano Rapone; 
+- Fentanyl; la molecola del diavolo, Simonetta Biagio
+- Le regole del venerabile; Francesco Montanari
+- Amnèsia, prima stagione; Rai Radio 2, Matteo Caccia
+- 24 Passi, la Paloma Blanca; Valentina Poddighe
+- Il banchiere di dio (“God’s banker” Eng version); Nicolò Majnoni, Guigo Guenci
+- Intervista al generale Mario Mori; podcast di Daniele Rielli
+- Chi è Matteo Messina Denaro; Mario Calabresi
+- Giù la maschera - la vita prima e dopo San Patrignano; Luna Esposito
+- L'abbraccio che ripara; Niccolò Agliardi
+- Oltre, un’inchiesta sull’universo incel italiano; Beatrice Petrella
+- Frate mitra, l’uomo che si infiltrò nelle Brigate Rosse; Lorenzo Baravalle
+- Le cento stanze, Piero Ancona; Luigi Lupo
+- Il cielo sopra Ustica; Antonio Iovane
+- Il colpo dello stato; Paolo Morando
+
+
 
 
 **Documentaries**
 - D’amore si vive; Silvano Agosti
-- Processo per Stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini 
+- Processo per stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini 
 - Sciuscià ‘80; Giuseppe Marrazzo
 - L'ultima intervista a Pier Paolo Pasolini, 31 Ottobre 1975; Youtube
-- Funeralopolis - A Suburban Portrait; Alessandro Redaelli 
+- Funeralopolis - A Suburban Portrait; Alessandro Redaelli
+- The decline of western civilization part III; Youtube
+- Fare ordine nel caos - 17/08/2022; su Giorgio Parisi; Superquark RaiPlay
+- Giorgio Parisi e la fisica della complessità; Youtube
+
+
+**Music Albums**
+- Unknown Pleasures, Joy Division, 1979
+- Closer, Joy Division, 1980
+- Disintegration, The Cure, 1989
+- Violator, Depeche Mode, 1990
+- Lucio Dalla, Lucio Dalla, 1979
+- Dalla, Lucio Dalla, 1980
+- Io, Franco Califano, 1988
+- L'evidenza dell'autunno, Franco Califano, 1972
+- The Smiths, The Smiths, 1984
+- Everybody Else Is Doing It, So Why Can't We?, The Cranberries, 1993
+- No Need To Argue, The Cranberries, 1994
+- Recovery, Eminem, 2010
+- The Slim Shady LP, Eminem, 1999
+- One More Light, Linkin Park, 2017
+- Meteora, Linkin Park, 2003
+- Low-Life, New Order, 1985
+- Substance, New Order, 1987
+- La voglia la pazzia l'incoscienza l'allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976
+- Relax, Calcutta, 2023
 
 
 
@@ -166,6 +124,80 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 - Alda Merini
 - Franco Arminio
 - Pablo Neruda
+
+
+**Sculptors**
+- Jago
+- Daniel Arsham
+- Paolo Nicolai
+- Fabio Viale
+- Leo Caillard
+- Filippo Nicolini
+- Francesco Filiberto Tonnarelli
+- Federico Benedetti
+- Bruno Cesar Catalano
+- Massimiliano Pelletti
+
+
+
+
+**Photographers**
+- Merrick Morton
+- George Steinmetz
+- Michael Yamasita
+- Steve McCurry
+- Joel Sartore
+- Aaron Huey
+- Robin Hammond
+- Brent Stirton
+- Babak Tafreshi
+- Gabriele Galimberti
+- Pedro McBride
+- Marshall Cody
+- Shaaz Jung
+- Paul Nicklen
+- Sam Alexander Gregg
+- Michael Christopher Brown
+- Herbert van der Beek
+- Lenny J. Ruiz
+- Suitcase Joe
+- Sam Youkilis
+- Antonio Faccilongo
+- Alessandro Cinque
+- Michele Iacobini
+- Leandro Colantoni
+- Carmine Romano
+- Niall McDiarmind
+- Robbie McIntosh
+- Martin Schoeller
+- David Alan Harvey
+- Bonus for the Italians: the collections "Archivio Balneare" and "Pictures from Italian Profiles" are worth checking out. 
+
+
+
+
+**Contemporary Artists**
+- Alice Pasquini
+- Shawn Coss
+- Bordalo II
+- Sean Yoro
+- Iskander Utebayev
+- Butcher Billy
+- Guillermo Lorca Garcìa
+- Omar Hassan
+- Simone Bianchi
+- Alex Juice
+- Will Conrad
+- Refik Anadol
+- Filippo Giusti
+- Roberto Ferri
+- Maxim Zhestkov
+- Fabrizio Plessi
+- Sy Goldstein
+- Nathan Stockman
+- Flavio Solo
+
+
 
 
 **Youtube Channels**

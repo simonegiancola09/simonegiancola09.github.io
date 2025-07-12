@@ -2,13 +2,13 @@
 layout: page
 permalink: /talks/
 title: talks
-description: Talks at seminars. 
+description: I love giving talks! 
 nav: true
 nav_order: 5
 ---
-Nothing at the moment. 
 
+(2024-04) __"Local curvature descent"__, research lecture for CS 331; KAUST
 
-[//]: <> (- (2024-01-29) __"Group Seminar"__ IST Austria)
-[//]: <> (- 2023-12-10) __"Séminaire des Doctorants"__, ENS Paris)
-[//]: <>(- (2023-08) __"Limits of Message Passing for Mixed phase retrieval"__, IST Internship Poster Session, IST Austria)
+(2024-01) __"Information-theoretic and algorithmic limits of mixed linear regression"__, group seminar; IST Austria
+
+(2023-12) __"Information-theoretic and algorithmic limits of mixed linear regression"__, séminaire des doctorants; ENS Paris

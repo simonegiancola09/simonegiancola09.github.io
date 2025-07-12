@@ -45,6 +45,7 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 **Ferzan Özpetek**
 - Saturno Contro
 - Diamanti
+- Le fate ignoranti
 
 
 **Paolo Sorrentino**
@@ -73,12 +74,20 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Romanzo Criminale
 - Il Ciclone
 
-**Menzione D'onore**, per i film italiani di successo ma non ambientati propriamente in Italia. 
+**Menzione D'onore**, per i film italiani che parlano d'Italia, ma non ambientati propriamente a Roma. 
 - Mediterraneo (Abatantuono, Bisio)
 - La vita è Bella (Benigni)
 - È stata la mano di Dio (Sorrentino)
-- This Must be The Place (Paolo Sorrentino)
 - Le Conseguenze dell’Amore (Paolo Sorrentino)
 - L’Amico di Famiglia (Paolo Sorrentino)
 - Amore Tossico (Claudio Caligari)
+- Il traditore (Marco Bellocchio)
+- L'uomo in più (Paolo Sorrentino)
+- Parthenope (Paolo Sorrentino)
+- Metti una sera a cena (Giuseppe Patroni Griffi)
+- La meglio gioventù (Marco Tullio Giordana)
+- Mine vaganti (Ferzan Özpetek)
+
+
+
 

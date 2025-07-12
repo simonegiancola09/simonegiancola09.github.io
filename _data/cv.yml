@@ -14,9 +14,19 @@
 - title: Education
   type: time_table
   contents:
+    - title: PhD student in Statistics
+      institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
+      year: Nov 2025- Present
+      description:
+        - <b> Advisors </b> Prof. Christophe Giraud, DR Nicolas Verzelen (INRAE Montpellier)
+        - Statistical-to-computational gaps; low-degree method 
+        - funded by programme blanc of Université Paris-Saclay
+        - hosted in the Ecole Doctorale de Mathématique Hadamard (EDMH)
+        - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
+  
     - title: M2 in probability and statistics, mathematics of randomness (MDA)
       institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
-      year: Sep 2024- Present
+      year: Sep 2024- Sep 2025
       description:
         - research master's
         - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
@@ -59,16 +69,17 @@
   type: list
   contents:
     - NeurIPS 2024 (reviewer)
-    - ICLR 2025 (reviewer)  
+    - ICLR 2025 (reviewer) 
+    - Prison Mathematics Project (mentor) 
 
 - title: Experience
   type: time_table
   contents:
     - title: Research intern
-      institution: Institut de Mathématique d'Orsay (LMO), Paris, FRA
+      institution: Institut de Mathématiques d'Orsay (IMO), Paris, FRA
       year: Apr 2024 - present
       description:
-        - <b>Advisors:</b> Prof. Christophe Giraud, DR Nicolas Verzelen
+        - <b>Advisors:</b> Prof. Christophe Giraud, DR Nicolas Verzelen, Prof. Alexandra Carpentier
         - Statistical to computational gaps, inference, hypothesis testing
   
     - title: Research intern
@@ -118,6 +129,40 @@
   contents:
     - Mathematics, statistics, computer science
     - Information theory, statistical physics, machine learning
+- title: Talks
+  contents:
+    - title: Local curvature descent
+      institution: KAUST
+      year: 2024
+      description:
+      - Research lecture for CS 331 Stochastic gradient descent methods
+    - title: Information-theoretic and algorithmic limits of mixed linear regression
+      institution: IST Austria
+      year: 2024
+      description:
+      - Group seminar
+    - title: Information-theoretic and algorithmic limits of mixed linear regression
+      institution: ENS Paris
+      year: 2023
+      description:
+      - Séminaire des doctorants
+- title: Teaching
+  contents:
+    - title: Analysis 
+      institution: IUT Orsay
+      year: 2026
+      description: 
+      - Teaching assistant, R209
+      - two classes
+    - title: Graph Theory 
+      institution: IUT Orsay
+      year: 2026
+      description: 
+      - Teaching assistant, R207
+      - two classes
+
+    
+
 - title: Skills
   type: list
   contents:
@@ -128,8 +173,9 @@
 - title: Awards
   type: list
   contents:
+    - selected for the 12th Heidelberg Laureate Forum in mathematics and computer science.
     - First italian school in geometric deep learning, funded MS student.
-    - OeAD scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD
+    - OeAD scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD.
     - Meritorious award for volunteering during the COVID-19 Pandemic. Awarded by the municipality of San Donato Milanese, Italy. 
 - title: Interests
   type: list

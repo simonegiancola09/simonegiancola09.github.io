@@ -1,5 +1,13 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-04-16T19:04:25+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Maria Giancola’s webpage</title><subtitle>M2 mathematics of randomness @Orsay
-</subtitle><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research.</p>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-12T15:26:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Maria Giancola’s webpage</title><subtitle>PhD student in statistics @Orsay
+</subtitle><entry><title type="html">Maths and physics but visually</title><link href="http://localhost:4000/blog/2025/maths-and-physics-but-visually/" rel="alternate" type="text/html" title="Maths and physics but visually" /><published>2025-07-05T10:01:00+02:00</published><updated>2025-07-05T10:01:00+02:00</updated><id>http://localhost:4000/blog/2025/maths-and-physics-but-visually</id><content type="html" xml:base="http://localhost:4000/blog/2025/maths-and-physics-but-visually/"><![CDATA[<p>Nice websites and videos about mathematics and physics.</p>
+
+<ul>
+  <li><a href="https://www.ibiblio.org/e-notes/Perc/contents.htm">Phase transitions on lattices</a></li>
+  <li><a href="http://www.chaos.umd.edu/gallery.html">Chaos gallery</a></li>
+  <li><a href="http://www.georgehart.com/virtual-polyhedra/vp.html">Virtual polyhedra</a></li>
+  <li><a href="https://vimeo.com/77330591">Beauty of mathematics</a></li>
+  <li><a href="https://mathwithbaddrawings.com/">Math with bad drawings</a></li>
+</ul>]]></content><author><name></name></author><category term="theory" /><category term="research" /><category term="goodstuff" /><summary type="html"><![CDATA[Images, documentaries, videos.]]></summary></entry><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research.</p>
 
 <!-- There are websites, packages, and a doc I wrote down to summarize many useful tips about writing research works, which made me recently realize that most of my older documents are wrong 😕. Whatever, now I know, we are made for mistakes.  -->
 
@@ -18,6 +26,7 @@
   <li><a href="https://marketplace.visualstudio.com/items?itemName=valentjn.vscode-ltex">LTeX</a> extension for VSCode</li>
   <li><a href="https://ipe.otfried.org/">IPE</a> for images;</li>
   <li><a href="https://www.alphaxiv.org/explore">AlphaXiv</a> for famous papers;</li>
+  <li><a href="https://zilin.one/findliner/">Findliner</a> built by one amazing professor!</li>
   <li>the <a href="https://www.miede.de/">Classic Thesis</a> LaTeX template;</li>
   <li>my personal adaptation on <a href="https://www.overleaf.com/read/gtpgcvpfyqkx#c8fbbf">Overleaf</a> or <a href="https://github.com/simonegiancola09/adapted_classic_thesis/tree/main">GitHub</a>;</li>
   <li>a <a href="http://simonegiancola09.github.io/assets/pdf/writing_a_paper.pdf">doc</a> summarizing in bullet points how to write a paper from the references therein.</li>
@@ -106,20 +115,122 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 
 <p>Thank you IST, Thank you to the organizers of the internship. Thank you Marco, you have been a great supervisor, and your topics of research are very cool. Thank you to the whole group for being nice, for hosting me and teaching me every day something new. I will do my best to see you again sometime somewhere.</p>
 
-<p>To anyone reading this, if you have the opportunity to spend some time in Wien or do research at IST, please go!</p>]]></content><author><name></name></author><category term="nontheory" /><category term="research" /><category term="life" /><category term="europe" /><category term="opinions" /><summary type="html"><![CDATA[A Wrap-up of my Three Months in Austria]]></summary></entry><entry><title type="html">A List of Lists of Interesting Things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A List of Lists of Interesting Things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>A list of things that I enjoyed throughout the years.</p>
+<p>To anyone reading this, if you have the opportunity to spend some time in Wien or do research at IST, please go!</p>]]></content><author><name></name></author><category term="nontheory" /><category term="research" /><category term="life" /><category term="europe" /><category term="opinions" /><summary type="html"><![CDATA[A Wrap-up of my Three Months in Austria]]></summary></entry><entry><title type="html">A List of Lists of Interesting Things</title><link href="http://localhost:4000/blog/2023/list-of-interesting-things/" rel="alternate" type="text/html" title="A List of Lists of Interesting Things" /><published>2023-07-23T23:01:00+02:00</published><updated>2023-07-23T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/list-of-interesting-things</id><content type="html" xml:base="http://localhost:4000/blog/2023/list-of-interesting-things/"><![CDATA[<p>A list of things I like.</p>
 
 <p><strong>Books</strong></p>
 
 <p>I have a <a href="https://www.goodreads.com/user/show/180790738-simone-maria">goodreads account</a>, you can check all my readings there!</p>
 
-<p><strong>Cool Links</strong></p>
+<p><strong>Justice</strong></p>
 <ul>
   <li><a href="https://www.prisonmathproject.org/">Prison Mathematics Project</a></li>
-  <li><a href="https://mathwithbaddrawings.com/">Math with bad drawings</a></li>
   <li><a href="https://www.antigone.it/">Antigone</a></li>
   <li><a href="https://www.associazionelucacoscioni.it">Associazione Luca Coscioni</a></li>
+  <li><a href="https://www.nessunotocchicaino.it/">Nessuno tocchi Caino</a></li>
   <li><a href="https://ristretti.org/">Ristretti Orizzonti</a></li>
   <li><a href="https://www.sistemapenale.it/">Sistema Penale</a></li>
+</ul>
+
+<p><strong>Podcasts</strong></p>
+<ul>
+  <li>24 mattino, Radio 24</li>
+  <li>Rassegna stampa, Radio 24</li>
+  <li>La Zanzara, Radio 24</li>
+  <li>Congo, Una Storia Sbagliata; Paolo Colombo</li>
+  <li>Io Ero il Milanese; Mauro Pescio</li>
+  <li>Lo Stato Parallelo; Gherardo Colombo</li>
+  <li>Indagini; Stefano Nazzi</li>
+  <li>Veleno; Pablo Trincia</li>
+  <li>Mitologia: le Meravigliose Storie del Mondo Antico; Alessandro Gelain</li>
+  <li>L’isola che non c’era; Marco Maisano</li>
+  <li>La vita dopo, il caso Luca Delfino; Pietro Adami e Simone Gorla</li>
+  <li>Dove nessuno guarda; Pablo Trincia</li>
+  <li>Disobbedisco, Sibilla Barbieri, L’ultimo viaggio verso la Libertà; Valentina Petrini</li>
+  <li>Ti scorderai di me; Sergio Ramazzotti e Giovanni Savarese</li>
+  <li>L’inverno demografico - Cosa c’è da sapere; Mauro Meazza, Michela Finzio</li>
+  <li>Io sono Libero; Alessandro Milan</li>
+  <li>Il gioco del Mostro; Giulia Bianconi</li>
+  <li>Il dito di Dio; Pablo Trincia</li>
+  <li>A domani; Nicolò Agliardi</li>
+  <li>Questo è Messina Denaro; Antonio Iovane, Lirio Abbate</li>
+  <li>Il mostro di Firenze, la via dell’acqua; Luca Ward</li>
+  <li>Benno - L’Oscurità su Bolzano; Lapo de Carlo, Noemi Zago, Stefano Dargenio</li>
+  <li>Come una marea - Il caso Franco Mastrogiovanni; Francesca Zanni, Enrico Bergianti</li>
+  <li>Sangue Loro, il ragazzo mandato a uccidere; Pablo Trincia</li>
+  <li>Le ombre di via Poma; Giacomo Galanti</li>
+  <li>Metanolo; Will media, Boats sound</li>
+  <li>Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti</li>
+  <li>E poi il silenzio; Pablo Trincia</li>
+  <li>Almeno credo; Carlo De Ruggieri</li>
+  <li>Innocente, la storia di Beniamino Zuncheddu; Nicoletta Cottone</li>
+  <li>Amnesia (stagione 1); Matteo Caccia</li>
+  <li>Borghesia Violenta;  Emons Record e Gog Edizioni</li>
+  <li>Gianni; Caroline Baglioni e Michelangelo Bellani</li>
+  <li>Entangled Ideas; Alice &amp; Bob</li>
+  <li>Spazio Penombre; unknown</li>
+  <li>Sky Crime; various</li>
+  <li>Il Buco - pionieri dell’eroina; Masiar Pasquali</li>
+  <li>Merce di Scambio; Teresa potenza</li>
+  <li>Scandali; BOATS sound</li>
+  <li>Mattanza; Giuseppe Pipitone &amp; Marco Colombo</li>
+  <li>Tintoria; Daniele Tinti, Stefano Rapone;</li>
+  <li>Fentanyl; la molecola del diavolo, Simonetta Biagio</li>
+  <li>Le regole del venerabile; Francesco Montanari</li>
+  <li>Amnèsia, prima stagione; Rai Radio 2, Matteo Caccia</li>
+  <li>24 Passi, la Paloma Blanca; Valentina Poddighe</li>
+  <li>Il banchiere di dio (“God’s banker” Eng version); Nicolò Majnoni, Guigo Guenci</li>
+  <li>Intervista al generale Mario Mori; podcast di Daniele Rielli</li>
+  <li>Chi è Matteo Messina Denaro; Mario Calabresi</li>
+  <li>Giù la maschera - la vita prima e dopo San Patrignano; Luna Esposito</li>
+  <li>L’abbraccio che ripara; Niccolò Agliardi</li>
+  <li>Oltre, un’inchiesta sull’universo incel italiano; Beatrice Petrella</li>
+  <li>Frate mitra, l’uomo che si infiltrò nelle Brigate Rosse; Lorenzo Baravalle</li>
+  <li>Le cento stanze, Piero Ancona; Luigi Lupo</li>
+  <li>Il cielo sopra Ustica; Antonio Iovane</li>
+  <li>Il colpo dello stato; Paolo Morando</li>
+</ul>
+
+<p><strong>Documentaries</strong></p>
+<ul>
+  <li>D’amore si vive; Silvano Agosti</li>
+  <li>Processo per stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini</li>
+  <li>Sciuscià ‘80; Giuseppe Marrazzo</li>
+  <li>L’ultima intervista a Pier Paolo Pasolini, 31 Ottobre 1975; Youtube</li>
+  <li>Funeralopolis - A Suburban Portrait; Alessandro Redaelli</li>
+  <li>The decline of western civilization part III; Youtube</li>
+  <li>Fare ordine nel caos - 17/08/2022; su Giorgio Parisi; Superquark RaiPlay</li>
+  <li>Giorgio Parisi e la fisica della complessità; Youtube</li>
+</ul>
+
+<p><strong>Music Albums</strong></p>
+<ul>
+  <li>Unknown Pleasures, Joy Division, 1979</li>
+  <li>Closer, Joy Division, 1980</li>
+  <li>Disintegration, The Cure, 1989</li>
+  <li>Violator, Depeche Mode, 1990</li>
+  <li>Lucio Dalla, Lucio Dalla, 1979</li>
+  <li>Dalla, Lucio Dalla, 1980</li>
+  <li>Io, Franco Califano, 1988</li>
+  <li>L’evidenza dell’autunno, Franco Califano, 1972</li>
+  <li>The Smiths, The Smiths, 1984</li>
+  <li>Everybody Else Is Doing It, So Why Can’t We?, The Cranberries, 1993</li>
+  <li>No Need To Argue, The Cranberries, 1994</li>
+  <li>Recovery, Eminem, 2010</li>
+  <li>The Slim Shady LP, Eminem, 1999</li>
+  <li>One More Light, Linkin Park, 2017</li>
+  <li>Meteora, Linkin Park, 2003</li>
+  <li>Low-Life, New Order, 1985</li>
+  <li>Substance, New Order, 1987</li>
+  <li>La voglia la pazzia l’incoscienza l’allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976</li>
+  <li>Relax, Calcutta, 2023</li>
+</ul>
+
+<p><strong>Poets</strong></p>
+<ul>
+  <li>Guido Catalano</li>
+  <li>Alda Merini</li>
+  <li>Franco Arminio</li>
+  <li>Pablo Neruda</li>
 </ul>
 
 <p><strong>Sculptors</strong></p>
@@ -193,88 +304,6 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Flavio Solo</li>
 </ul>
 
-<p><strong>Music Albums</strong></p>
-<ul>
-  <li>Unknown Pleasures, Joy Division, 1979</li>
-  <li>Closer, Joy Division, 1980</li>
-  <li>Disintegration, The Cure, 1989</li>
-  <li>Violator, Depeche Mode, 1990</li>
-  <li>Lucio Dalla, Lucio Dalla, 1979</li>
-  <li>Dalla, Lucio Dalla, 1980</li>
-  <li>The Smiths, The Smiths, 1984</li>
-  <li>Everybody Else Is Doing It, So Why Can’t We?, The Cranberries, 1993</li>
-  <li>No Need To Argue, The Cranberries, 1994</li>
-  <li>Recovery, Eminem, 2010</li>
-  <li>The Slim Shady LP, Eminem, 1999</li>
-  <li>One More Light, Linkin Park, 2017</li>
-  <li>Meteora, Linkin Park, 2003</li>
-  <li>Low-Life, New Order, 1985</li>
-  <li>Substance, New Order, 1987</li>
-  <li>La voglia la pazzia l’incoscienza l’allegria, Ornella Vanoni - Toquinho - Vinícius de Moraes, 1976</li>
-  <li>Relax, Calcutta, 2023</li>
-</ul>
-
-<p><strong>Podcasts</strong></p>
-<ul>
-  <li>24 mattino, Radio 24</li>
-  <li>Rassegna stampa, Radio 24</li>
-  <li>La Zanzara, Radio 24</li>
-  <li>Congo, Una Storia Sbagliata; Paolo Colombo</li>
-  <li>Io Ero il Milanese; Mauro Pescio</li>
-  <li>Lo Stato Parallelo; Gherardo Colombo</li>
-  <li>Indagini; Stefano Nazzi</li>
-  <li>Veleno; Pablo Trincia</li>
-  <li>Mitologia: le Meravigliose Storie del Mondo Antico; Alessandro Gelain</li>
-  <li>L’isola che non c’era; Marco Maisano</li>
-  <li>La vita dopo, il caso Luca Delfino; Pietro Adami e Simone Gorla</li>
-  <li>Dove nessuno guarda; Pablo Trincia</li>
-  <li>Disobbedisco, Sibilla Barbieri, L’ultimo viaggio verso la Libertà; Valentina Petrini</li>
-  <li>Ti scorderai di me; Sergio Ramazzotti e Giovanni Savarese</li>
-  <li>L’inverno demografico - Cosa c’è da sapere; Mauro Meazza, Michela Finzio</li>
-  <li>Io sono Libero; Alessandro Milan</li>
-  <li>Il gioco del Mostro; Giulia Bianconi</li>
-  <li>Il dito di Dio; Pablo Trincia</li>
-  <li>A domani; Nicolò Agliardi</li>
-  <li>Questo è Messina Denaro; Antonio Iovane, Lirio Abbate</li>
-  <li>Il mostro di Firenze, la via dell’acqua; Luca Ward</li>
-  <li>Benno - L’Oscurità su Bolzano; Lapo de Carlo, Noemi Zago, Stefano Dargenio</li>
-  <li>Come una marea - Il caso Franco Mastrogiovanni; Francesca Zanni, Enrico Bergianti</li>
-  <li>Sangue Loro, il ragazzo mandato a uccidere; Pablo Trincia</li>
-  <li>Le ombre di via Poma; Giacomo Galanti</li>
-  <li>Metanolo; Will media, Boats sound</li>
-  <li>Rumore, il caso Federico Aldrovandi; Francesca Zanni, Enrico Bergianti</li>
-  <li>E poi il silenzio; Pablo Trincia</li>
-  <li>Almeno credo; Carlo De Ruggieri</li>
-  <li>Innocente, la storia di Beniamino Zuncheddu; Nicoletta Cottone</li>
-  <li>Amnesia (stagione 1); Matteo Caccia</li>
-  <li>Borghesia Violenta;  Emons Record e Gog Edizioni</li>
-  <li>Gianni; Caroline Baglioni e Michelangelo Bellani</li>
-  <li>Entangled Ideas; Alice &amp; Bob</li>
-  <li>Spazio Penombre; unknown</li>
-  <li>Sky Crime; various</li>
-  <li>Il Buco - pionieri dell’eroina; Masiar Pasquali</li>
-  <li>Merce di Scambio; Teresa potenza</li>
-  <li>Scandali; BOATS sound</li>
-  <li>Mattanza; Giuseppe Pipitone &amp; Marco Colombo</li>
-</ul>
-
-<p><strong>Documentaries</strong></p>
-<ul>
-  <li>D’amore si vive; Silvano Agosti</li>
-  <li>Processo per Stupro; Loredana Rotondo, Rony Daopulo, Paola De Martis, Annabella Miscuglio, Maria Grazia Belmonti, Anna Carini</li>
-  <li>Sciuscià ‘80; Giuseppe Marrazzo</li>
-  <li>L’ultima intervista a Pier Paolo Pasolini, 31 Ottobre 1975; Youtube</li>
-  <li>Funeralopolis - A Suburban Portrait; Alessandro Redaelli</li>
-</ul>
-
-<p><strong>Poets</strong></p>
-<ul>
-  <li>Guido Catalano</li>
-  <li>Alda Merini</li>
-  <li>Franco Arminio</li>
-  <li>Pablo Neruda</li>
-</ul>
-
 <p><strong>Youtube Channels</strong></p>
 <ul>
   <li>Soft White Underbelly; Mark Laita</li>
@@ -325,6 +354,7 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 <ul>
   <li>Saturno Contro</li>
   <li>Diamanti</li>
+  <li>Le fate ignoranti</li>
 </ul>
 
 <p><strong>Paolo Sorrentino</strong></p>
@@ -361,15 +391,20 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Il Ciclone</li>
 </ul>
 
-<p><strong>Menzione D’onore</strong>, per i film italiani di successo ma non ambientati propriamente in Italia.</p>
+<p><strong>Menzione D’onore</strong>, per i film italiani che parlano d’Italia, ma non ambientati propriamente a Roma.</p>
 <ul>
   <li>Mediterraneo (Abatantuono, Bisio)</li>
   <li>La vita è Bella (Benigni)</li>
   <li>È stata la mano di Dio (Sorrentino)</li>
-  <li>This Must be The Place (Paolo Sorrentino)</li>
   <li>Le Conseguenze dell’Amore (Paolo Sorrentino)</li>
   <li>L’Amico di Famiglia (Paolo Sorrentino)</li>
   <li>Amore Tossico (Claudio Caligari)</li>
+  <li>Il traditore (Marco Bellocchio)</li>
+  <li>L’uomo in più (Paolo Sorrentino)</li>
+  <li>Parthenope (Paolo Sorrentino)</li>
+  <li>Metti una sera a cena (Giuseppe Patroni Griffi)</li>
+  <li>La meglio gioventù (Marco Tullio Giordana)</li>
+  <li>Mine vaganti (Ferzan Özpetek)</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="italian" /><category term="films" /><category term="informal" /><category term="list" /><summary type="html"><![CDATA[una lista aggiornata di film e il cardine del mio ideale di Italia]]></summary></entry><entry><title type="html">On the Importance of Having a Mission</title><link href="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/" rel="alternate" type="text/html" title="On the Importance of Having a Mission" /><published>2023-04-04T23:01:00+02:00</published><updated>2023-04-04T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission</id><content type="html" xml:base="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/"><![CDATA[<p>The following is a confusing and very raw discussion about one of the most foundational aspects of my everyday life. In parallel, I will comment on
 the last 12 months, since they have been the clearest example of <em>the importance of having a Mission</em>. Despite being 100% sure that I
 am not a person able to give advice, you might pick up something in the end.</p>
@@ -404,16 +439,4 @@ common thread is focusing on doing something good. The gains come later, almost 
 I somehow found more time to hang out, bond, have holidays, party, work, think. All of this is thanks to waking up with already half of the work done (i.e. knowing what to wish for). No agenda planning, no specific tasks, no pressure, just knocking at every door possibly linked to what I wanted to do.</p>
 
 <h3 id="future">Future</h3>
-<p>My guess is that I will go on, and just see what happens. There are expectations, but even if something will not work out, there is always love on the backline (again, not in the corny sense of the word), so I <strong>will</strong> be fine. A mission never dies, it just keeps on stimulating your self-development, and that is probably what makes it even better.</p>]]></content><author><name></name></author><category term="nontheory" /><category term="thoughts" /><category term="informal" /><category term="goodthings" /><summary type="html"><![CDATA[A wrap up of thoughts]]></summary></entry><entry><title type="html">Rules of the game</title><link href="http://localhost:4000/blog/2023/rules-of-the-game/" rel="alternate" type="text/html" title="Rules of the game" /><published>2023-04-01T23:01:00+02:00</published><updated>2023-04-01T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/rules-of-the-game</id><content type="html" xml:base="http://localhost:4000/blog/2023/rules-of-the-game/"><![CDATA[<h2 id="some-boring-introduction">Some Boring introduction</h2>
-<p>This is my first attempt at writing a blog. Despite being strange, and kind of old-fashioned, it might actually be fun so I thought of giving it a try.</p>
-
-<p>I still do not know if this will be a fixed activity, or more influenced by randomness, and what I will talk about. Short term topics are likely to be a mix of Mathematics, music, films, and socially felt problems. My guess is that I will talk a bit about what I am studying at the moment, and occasionally use some posts to talk about non work related topics. The general aim is collecting thoughts to see what changes in years in terms of <em>writing</em>, <em>thinking</em> and <em>seeing</em>.</p>
-
-<h2 id="content-delivery">Content Delivery</h2>
-<p>Concerning non Science related subjects, I would like this to be a free area in which I can type down whatever comes to my mind. Respect will be always kept, but please keep in mind that as Twitter users state in their bio: “opinions are my own”.</p>
-
-<p>I guarantee you that I will not be as hard as one of my favourite radio programs, “La Zanzara” on Radio24, but at the same time not as soft as national television. I feel like one of the most important things in life are discussion and developing ideas, and a blog looks like a perfect fit for both.</p>
-
-<h2 id="language">Language</h2>
-
-<p>The impression is that I am bad at writing in both English and Italian, the only two languages I known enough to even formulate more than 3 sentences. I might alternate between the two indefinitely, but will point out when a post is in my native language. It is hihgly likely that academic and life matters will be repsectively in English and Italian, with occasional crossover English posts when talking about international topics that are non technical.</p>]]></content><author><name></name></author><category term="general" /><category term="metablogging" /><summary type="html"><![CDATA[Blog presentation]]></summary></entry></feed>
+<p>My guess is that I will go on, and just see what happens. There are expectations, but even if something will not work out, there is always love on the backline (again, not in the corny sense of the word), so I <strong>will</strong> be fine. A mission never dies, it just keeps on stimulating your self-development, and that is probably what makes it even better.</p>]]></content><author><name></name></author><category term="nontheory" /><category term="thoughts" /><category term="informal" /><category term="goodthings" /><summary type="html"><![CDATA[A wrap up of thoughts]]></summary></entry></feed>
