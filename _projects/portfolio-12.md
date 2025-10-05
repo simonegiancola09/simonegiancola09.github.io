@@ -3,7 +3,7 @@ layout: page
 title: Message Passing and GLMs
 description: Master's Thesis, Apr 2024
 img: assets/img/thesis_cover.png
-importance: 1
+importance: 2
 category: long
 ---
 To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/thesis_for_website.pdf)\]

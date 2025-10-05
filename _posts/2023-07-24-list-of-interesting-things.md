@@ -80,6 +80,10 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 - Le cento stanze, Piero Ancona; Luigi Lupo
 - Il cielo sopra Ustica; Antonio Iovane
 - Il colpo dello stato; Paolo Morando
+- Colpo di stato; Antonio Iovane
+- Il cono d'ombra - la storia di Denis Bergamini; Pablo Trincia 
+- La fine di Mussolini; Antonio Scurati
+
 
 
 

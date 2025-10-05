@@ -2,7 +2,7 @@
 layout: page
 title: A nice application of kernel methods for random graphs
 description: Based on the thesis of Valdivia, 2020. April 2025
-img: assets/img/_cover.png
+img: assets/img/kernel_methods_cover.png
 importance: 2
 category: expository
 ---

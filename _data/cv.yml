@@ -14,7 +14,7 @@
 - title: Education
   type: time_table
   contents:
-    - title: PhD student in Statistics
+    - title: PhD candidate (doctorant) in Statistics
       institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
       year: Nov 2025- Present
       description:
@@ -22,13 +22,14 @@
         - Statistical-to-computational gaps; low-degree method 
         - funded by programme blanc of Université Paris-Saclay
         - hosted in the Ecole Doctorale de Mathématique Hadamard (EDMH)
-        - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
-  
     - title: M2 in probability and statistics, mathematics of randomness (MDA)
       institution: Institut de Mathématique d’Orsay, Université Paris-Saclay, Paris, France
       year: Sep 2024- Sep 2025
       description:
         - research master's
+        - <b> GPA </b> 16.3/20
+        - Thesis "Computational lower bounds via almost orthonormal polynomials"
+        - Advisors Prof. Alexandra Carpentier (Univ. Potsdam), Prof. Christophe Giraud (Paris-Saclay), DR Nicolas Verzelen (INRAE Montpellier)
         - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
     - title: Master of science in data science, data science major
       institution: Bocconi University, Milan, Italy
@@ -37,7 +38,7 @@
         - Grade 110 cum Laude/ 110
         - <b> GPA </b> 29/30
         - Thesis "A roadmap to Message Passing methods for inference on Mixed Generalized Linear Models, with emphasis on Mixed Noiseless Phase Retrieval"
-        - <b> Advisor </b> Prof. Carlo Lucibello
+        - Advisor Prof. Carlo Lucibello
         - title: relevant coursework
           contents:
             - <b> Ph.D. coursework</b> real analysis (optimal transport), graph theory, statistical physics
@@ -55,15 +56,19 @@
         - Grade 110 Cum Laude / 110
         - Thesis “Value of Information in a Support Vector Machine, an exploration”
         - GPA 29.18 / 30 , <b> STEM GPA 30.14 / 30 </b>
-        - <b> Relevant coursework:</b> advanced statistical methods, applied mathematics, machine learning
+        - Relevant coursework advanced statistical methods, applied mathematics, machine learning
 
-- title: Publications
+- title: Papers
   type: time_table
   contents:
+  - title: "Low-degree lower bounds via almost orthonormal bases"
+    year: Sep 2025
+    institution: Carpentier, Giancola, Giraud, Verzelen
+    description: preprint
   - title: "Local Curvature Descent: Squeezing More Curvature out of Standard and Polyak Gradient Descent"
     year: May 2023
     institution: Richtárik, Giancola, Lubczyk, Yadav
-    description: NeurIPS 2024 Workshop in Optimization
+    description: NeurIPS 2025, poster
 
 - title: Service
   type: list
@@ -71,13 +76,14 @@
     - NeurIPS 2024 (reviewer)
     - ICLR 2025 (reviewer) 
     - Prison Mathematics Project (mentor) 
+    - LeadTheFuture (mentor)
 
 - title: Experience
   type: time_table
   contents:
     - title: Research intern
       institution: Institut de Mathématiques d'Orsay (IMO), Paris, FRA
-      year: Apr 2024 - present
+      year: Apr 2024 - July 2024
       description:
         - <b>Advisors:</b> Prof. Christophe Giraud, DR Nicolas Verzelen, Prof. Alexandra Carpentier
         - Statistical to computational gaps, inference, hypothesis testing
@@ -130,6 +136,7 @@
     - Mathematics, statistics, computer science
     - Information theory, statistical physics, machine learning
 - title: Talks
+  type: time_table
   contents:
     - title: Local curvature descent
       institution: KAUST
@@ -147,6 +154,7 @@
       description:
       - Séminaire des doctorants
 - title: Teaching
+  type: time_table
   contents:
     - title: Analysis 
       institution: IUT Orsay
@@ -177,6 +185,14 @@
     - First italian school in geometric deep learning, funded MS student.
     - OeAD scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD.
     - Meritorious award for volunteering during the COVID-19 Pandemic. Awarded by the municipality of San Donato Milanese, Italy. 
+    - IGIER visiting student
+- title: Summer schools
+  type: list
+  contents:
+    - First italian school in geometric deep learning, 2022, Pescara, Italy; 
+    - StatMathAppli 2025, Fréjus, France;
+
+
 - title: Interests
   type: list
   contents:

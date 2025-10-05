@@ -17,7 +17,6 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 **Carlo Verdone**
 - Grande grosso e verdone
 - Acqua e Sapone
-- Maledetto il giorno che ti ho incontrato
 - Manuale D'amore
 - L'amore è Bello Finchè Dura
 - Un Sacco Bello
@@ -46,6 +45,7 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Saturno Contro
 - Diamanti
 - Le fate ignoranti
+- La dea fortuna
 
 
 **Paolo Sorrentino**
@@ -61,7 +61,6 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Che ne sarà di noi
 
 **Riccardo Scamarcio**
-- Io che amo solo te
 - Lo Spietato
 
 
@@ -73,6 +72,9 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Tutta Colpa di Freud
 - Romanzo Criminale
 - Il Ciclone
+- In nome del figlio; Vincenzo Frenda
+- Figli; Giuseppe Bonito 
+
 
 **Menzione D'onore**, per i film italiani che parlano d'Italia, ma non ambientati propriamente a Roma. 
 - Mediterraneo (Abatantuono, Bisio)
@@ -87,6 +89,9 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Metti una sera a cena (Giuseppe Patroni Griffi)
 - La meglio gioventù (Marco Tullio Giordana)
 - Mine vaganti (Ferzan Özpetek)
+- Io che amo solo te
+- Supereroi; Paolo Genovese
+-  Maledetto il giorno che ti ho incontrato (Verdone)
 
 
 

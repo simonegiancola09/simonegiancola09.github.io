@@ -2,7 +2,7 @@
 layout: page
 title: A Lecture on SGD and Markov Chains
 description: based on a paper by Dieuleveut, Durmus, and Bach (2020), Dec 2024
-img: assets/img/markov_chains_orsay_cover.jpeg
+img: assets/img/markov_chains_orsay_cover.jpg
 importance: 2
 category: expository
 ---

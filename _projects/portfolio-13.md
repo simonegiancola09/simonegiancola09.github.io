@@ -3,7 +3,7 @@ layout: page
 title: Spot Topics for Inference and Statistical Physics
 description: A collection of often ignored results, May 2024
 img: assets/img/spot_topics.png
-importance: 1
+importance: 2
 category: long
 ---
 To access the document, please click \[[PDF](http://simonegiancola09.github.io/assets/pdf/spot_topics_statistical_physics.pdf)\]

@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-07-12T15:26:36+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Maria Giancola’s webpage</title><subtitle>PhD student in statistics @Orsay
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en"><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" hreflang="en" /><updated>2025-10-05T23:19:31+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Simone Maria Giancola’s webpage</title><subtitle>PhD student in statistics @Orsay
 </subtitle><entry><title type="html">Maths and physics but visually</title><link href="http://localhost:4000/blog/2025/maths-and-physics-but-visually/" rel="alternate" type="text/html" title="Maths and physics but visually" /><published>2025-07-05T10:01:00+02:00</published><updated>2025-07-05T10:01:00+02:00</updated><id>http://localhost:4000/blog/2025/maths-and-physics-but-visually</id><content type="html" xml:base="http://localhost:4000/blog/2025/maths-and-physics-but-visually/"><![CDATA[<p>Nice websites and videos about mathematics and physics.</p>
 
 <ul>
@@ -7,6 +7,7 @@
   <li><a href="http://www.georgehart.com/virtual-polyhedra/vp.html">Virtual polyhedra</a></li>
   <li><a href="https://vimeo.com/77330591">Beauty of mathematics</a></li>
   <li><a href="https://mathwithbaddrawings.com/">Math with bad drawings</a></li>
+  <li><a href="https://images.math.cnrs.fr/">Images des mathématiques</a></li>
 </ul>]]></content><author><name></name></author><category term="theory" /><category term="research" /><category term="goodstuff" /><summary type="html"><![CDATA[Images, documentaries, videos.]]></summary></entry><entry><title type="html">Useful Resources for Research</title><link href="http://localhost:4000/blog/2024/useful-resources-for-research/" rel="alternate" type="text/html" title="Useful Resources for Research" /><published>2024-04-24T10:01:00+02:00</published><updated>2024-04-24T10:01:00+02:00</updated><id>http://localhost:4000/blog/2024/useful-resources-for-research</id><content type="html" xml:base="http://localhost:4000/blog/2024/useful-resources-for-research/"><![CDATA[<p>I always like to find tools that can help me. Here is a non-exhaustive list of things I found around for research.</p>
 
 <!-- There are websites, packages, and a doc I wrote down to summarize many useful tips about writing research works, which made me recently realize that most of my older documents are wrong 😕. Whatever, now I know, we are made for mistakes.  -->
@@ -188,6 +189,9 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Le cento stanze, Piero Ancona; Luigi Lupo</li>
   <li>Il cielo sopra Ustica; Antonio Iovane</li>
   <li>Il colpo dello stato; Paolo Morando</li>
+  <li>Colpo di stato; Antonio Iovane</li>
+  <li>Il cono d’ombra - la storia di Denis Bergamini; Pablo Trincia</li>
+  <li>La fine di Mussolini; Antonio Scurati</li>
 </ul>
 
 <p><strong>Documentaries</strong></p>
@@ -321,7 +325,6 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 <ul>
   <li>Grande grosso e verdone</li>
   <li>Acqua e Sapone</li>
-  <li>Maledetto il giorno che ti ho incontrato</li>
   <li>Manuale D’amore</li>
   <li>L’amore è Bello Finchè Dura</li>
   <li>Un Sacco Bello</li>
@@ -355,6 +358,7 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Saturno Contro</li>
   <li>Diamanti</li>
   <li>Le fate ignoranti</li>
+  <li>La dea fortuna</li>
 </ul>
 
 <p><strong>Paolo Sorrentino</strong></p>
@@ -376,7 +380,6 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
 
 <p><strong>Riccardo Scamarcio</strong></p>
 <ul>
-  <li>Io che amo solo te</li>
   <li>Lo Spietato</li>
 </ul>
 
@@ -389,6 +392,8 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Tutta Colpa di Freud</li>
   <li>Romanzo Criminale</li>
   <li>Il Ciclone</li>
+  <li>In nome del figlio; Vincenzo Frenda</li>
+  <li>Figli; Giuseppe Bonito</li>
 </ul>
 
 <p><strong>Menzione D’onore</strong>, per i film italiani che parlano d’Italia, ma non ambientati propriamente a Roma.</p>
@@ -405,6 +410,9 @@ I have deeply enjoyed challenging myself in conducting research, and am now more
   <li>Metti una sera a cena (Giuseppe Patroni Griffi)</li>
   <li>La meglio gioventù (Marco Tullio Giordana)</li>
   <li>Mine vaganti (Ferzan Özpetek)</li>
+  <li>Io che amo solo te</li>
+  <li>Supereroi; Paolo Genovese</li>
+  <li>Maledetto il giorno che ti ho incontrato (Verdone)</li>
 </ul>]]></content><author><name></name></author><category term="nontheory" /><category term="italian" /><category term="films" /><category term="informal" /><category term="list" /><summary type="html"><![CDATA[una lista aggiornata di film e il cardine del mio ideale di Italia]]></summary></entry><entry><title type="html">On the Importance of Having a Mission</title><link href="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/" rel="alternate" type="text/html" title="On the Importance of Having a Mission" /><published>2023-04-04T23:01:00+02:00</published><updated>2023-04-04T23:01:00+02:00</updated><id>http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission</id><content type="html" xml:base="http://localhost:4000/blog/2023/on-the-importance-of-having-a-mission/"><![CDATA[<p>The following is a confusing and very raw discussion about one of the most foundational aspects of my everyday life. In parallel, I will comment on
 the last 12 months, since they have been the clearest example of <em>the importance of having a Mission</em>. Despite being 100% sure that I
 am not a person able to give advice, you might pick up something in the end.</p>
