@@ -9,7 +9,7 @@ categories: theory
 
 Nice websites and videos about mathematics and physics. 
 
-
+- [Phase transitions and renormalization](https://www.youtube.com/watch?v=MxRddFrEnPc&ab_channel=DouglasAshton)
 - [Phase transitions on lattices](https://www.ibiblio.org/e-notes/Perc/contents.htm)
 - [Chaos gallery](http://www.chaos.umd.edu/gallery.html)
 - [Virtual polyhedra](http://www.georgehart.com/virtual-polyhedra/vp.html)

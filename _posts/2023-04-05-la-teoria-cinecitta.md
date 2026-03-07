@@ -46,6 +46,7 @@ Data la memoria imperfetta, sarà una lista soggetta a continuo aggiustamento, c
 - Diamanti
 - Le fate ignoranti
 - La dea fortuna
+- La finestra di fronte
 
 
 **Paolo Sorrentino**

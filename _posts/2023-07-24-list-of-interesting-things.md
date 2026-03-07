@@ -83,6 +83,17 @@ I have a [goodreads account](https://www.goodreads.com/user/show/180790738-simon
 - Colpo di stato; Antonio Iovane
 - Il cono d'ombra - la storia di Denis Bergamini; Pablo Trincia 
 - La fine di Mussolini; Antonio Scurati
+- Feroce – L'ultima notte di Pasolini; CasoZero Media
+- La gita; radio 24
+- Squali; sole24ore
+- Era mia nonna; Choramedia
+- Fallo!; Giuseppe cruciani
+- OP Omicidio Pecorelli; Raffaella Fanelli
+- L'ambasciatore dimenticato; Luca Attanasio
+- 20 settimane; Flavia Cappellini, Michele Barbati
+- Shalom, le terapeute di Cristo; Backstair
+- Per questi motivi; Giulia Merlo 
+
 
 
 

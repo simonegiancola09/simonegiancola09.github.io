@@ -27,7 +27,8 @@
       year: Sep 2024- Sep 2025
       description:
         - research master's
-        - <b> GPA </b> 16.3/20
+        - highest final grade <b>Très bien</b>
+        - <b>GPA </b> 16.3/20
         - Thesis "Computational lower bounds via almost orthonormal polynomials"
         - Advisors Prof. Alexandra Carpentier (Univ. Potsdam), Prof. Christophe Giraud (Paris-Saclay), DR Nicolas Verzelen (INRAE Montpellier)
         - <b> Relevant coursework:</b> high-dimensional statistics, concentration of measure, inference on random graphs
@@ -138,6 +139,16 @@
 - title: Talks
   type: time_table
   contents:
+    - title: Low-degree lower bounds via almost orthonormal bases
+      institution: Université Paris Cité
+      year: 2026
+      description:
+      - Séminaire des doctorants
+    - title: Low-degree lower bounds via almost orthonormal bases
+      institution: Potsdam University
+      year: 2025
+      description:
+      - Group seminar
     - title: Local curvature descent
       institution: KAUST
       year: 2024
@@ -191,8 +202,7 @@
   contents:
     - First italian school in geometric deep learning, 2022, Pescara, Italy; 
     - StatMathAppli 2025, Fréjus, France;
-
-
+  
 - title: Interests
   type: list
   contents:

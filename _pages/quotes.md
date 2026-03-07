@@ -41,7 +41,7 @@ nav_order: 6
 "Image": "https://it.wikipedia.org/wiki/File:Frans_Hals_-_Portret_van_Ren%C3%A9_Descartes.jpg",
    "Credit": "Wikipedia"
 }, 
-    {"Quote":"Se hai 5 lire compra 5 lire di fiducia in te stesso. Persevera nelle decisioni prese. Credo solo ai fatti provati.",
+    {"Quote":"Se hai 5 lire compra 5 lire di fiducia in te stesso. Persevera nelle decisioni prese. Credi solo ai fatti provati.",
 "Author":"Nella targa regalata a Eugenio Cefis dopo avere svolto il praticantato (ref. Paolo Morando: Eugenio Cefis, una storia italiana di potere e misteri)",
 "Image": "https://www.laterza.it/immagini/copertine-big/9788858143872.jpg",
    "Credit": "Editori Laterza"
