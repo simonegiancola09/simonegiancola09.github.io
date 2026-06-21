@@ -54,8 +54,9 @@ Loosely: the interplay of physics, computer science and statistics.
 >"Van Gogh style painting of an Italian boy in his 20s with a shirt and eyeglasses, brown curly hair, brown eyes" -->
 
 <div style="text-align: center; margin-top: 20px;">
-  <script type="text/javascript" id="clustrmaps" src="https://cdn.clustrmaps.com/map_v2.js?cl=ffffff&w=400&t=m&d=qs39rMdrVTM_HJ76vd9onjL2aVddHeOSFVC41_w-BQg&co=81219b&cmo=3acc3a&cmn=ff5353&ct=ffffff"></script>
+  {% include clustrmaps.html %}
 </div>
+
 
 
 #### previously
