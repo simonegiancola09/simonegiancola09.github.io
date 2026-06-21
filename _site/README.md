@@ -2,7 +2,13 @@ Personal Website
 ====
 Template from [al-folio](https://github.com/alshedivat/al-folio). 
 
-Tips:
+### current functioning
+do a pull from master (if ever)
+changes
+git add 
+git commit 
+git push origin master
+### Old Tips:
 Change stuff
 
 Go to vs
