@@ -74,8 +74,10 @@
 - title: Service
   type: list
   contents:
-    - NeurIPS 2024 (reviewer)
+    - Orsay STATML seminar 2026-2028 (organizer)
+    - NeurIPS 2026 (reviewer)
     - ICLR 2025 (reviewer) 
+    - NeurIPS 2024 (reviewer)
     - Prison Mathematics Project (mentor) 
     - LeadTheFuture (mentor)
 
@@ -139,6 +141,16 @@
 - title: Talks
   type: time_table
   contents:
+    - title: Hypothesis testing stochastic block models with many communities
+      institution: Potsdam University
+      year: 2026
+      description:
+      - Group seminar
+    - title: Why would you care about approximate message passing? 
+      institution: IMO Orsay
+      year: 2026
+      description:
+      - SuperGraNdMa weekly seminar
     - title: Low-degree lower bounds via almost orthonormal bases
       institution: Université Paris Cité
       year: 2026
@@ -167,6 +179,23 @@
 - title: Teaching
   type: time_table
   contents:
+    - title: Statistical modelling 
+      institution: ENSTA
+      year: 2026
+      description: 
+      - Teaching assistant
+      - Master level
+    - title: Ecology and statistics 
+      institution: IMO orsay
+      year: 2027
+      description: 
+      - Teaching assistant
+      - Computer tutorials
+    - title: Statistical tests for biology
+      institution: IMO Orsay
+      year: 2026
+      description: 
+      - Teaching assistant
     - title: Analysis 
       institution: IUT Orsay
       year: 2026
@@ -197,9 +226,10 @@
     - OeAD scholarship, ref. num. MPC-2023-01128, financed by ISTA, awarded by the OeAD.
     - Meritorious award for volunteering during the COVID-19 Pandemic. Awarded by the municipality of San Donato Milanese, Italy. 
     - IGIER visiting student
-- title: Summer schools
+- title: Scientific visits and Summer schools 
   type: list
   contents:
+    - Potsdam University, June 2026
     - First italian school in geometric deep learning, 2022, Pescara, Italy; 
     - StatMathAppli 2025, Fréjus, France;
   

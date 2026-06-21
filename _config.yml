@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: Simone Maria Giancola's webpage # the website title (if blank, full name will be used instead)
+title: Simone Maria Giancola # the website title (if blank, full name will be used instead)
 first_name: Simone Maria
 middle_name:
 last_name: Giancola
@@ -121,7 +121,7 @@ bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 # -----------------------------------------------------------------------------
 
 blog_name: informal typos # blog_name will be displayed in your blog page
-blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
+# blog_nav_title: blog # your blog must have a title for it to be displayed in the nav bar
 blog_description: A repository of impressions and miswritings
 permalink: /blog/:year/:title/
 
@@ -177,7 +177,7 @@ collections:
 announcements:
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 3 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: true
