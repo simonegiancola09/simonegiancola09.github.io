@@ -53,17 +53,10 @@ Loosely: the interplay of physics, computer science and statistics.
 - 🎨 The prompt I gave to Dall-E2 for the surprisingly self resembling image was
 >"Van Gogh style painting of an Italian boy in his 20s with a shirt and eyeglasses, brown curly hair, brown eyes" -->
 
-
-<div style="text-align: center; margin-top: 20px; width: 100%; display: flex; justify-content: center;">
-  <iframe 
-    src="https://clustrmaps.com/map_v2.html?cl=ffffff&w=400&t=m&d=qs39rMdrVTM_HJ76vd9onjL2aVddHeOSFVC41_w-BQg&co=81219b&cmo=3acc3a&cmn=ff5353&ct=ffffff" 
-    width="400" 
-    height="250" 
-    frameborder="0" 
-    scrolling="no" 
-    style="border:none; overflow:hidden;">
-  </iframe>
+<div style="text-align: center; margin-top: 20px;">
+  {% include clustrmaps.html %}
 </div>
+
 
 
 #### previously
