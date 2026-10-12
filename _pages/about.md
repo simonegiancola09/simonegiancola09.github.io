@@ -26,7 +26,7 @@ I am a PhD researcher in statistics at the [Orsay Institute, Paris-Saclay Univer
 Statistical-to-computational gaps, with a focus on the low-degree method. 
 Loosely: the interplay of physics, computer science and statistics. 
 
-test
+I am organizing the PhD students' seminar at Orsay with Yannis Monbru and [Arthur Yax](https://arthur-yax.pages.math.cnrs.fr/). If you are a PhD student in Paris and want to come speak, click on the email button below. 
 
 
 
